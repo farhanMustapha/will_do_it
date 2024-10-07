@@ -5,5 +5,10 @@
 #the question is why and where i can use it hhh
 
 def hashing_funct(texto):
-    s=[sum(ord(x) for x in texto)]
-    return s%10
+    s=sum(ord(x) for x in texto)
+    return s % 10
+
+a=hashing_funct("world")
+print(a)
+
+#it s ok if you didn't understand the point
