@@ -65,7 +65,7 @@ L=[1,2,3,4,5,6,7,8,9,10]
 a=multiplication_item_list(L,2)
 print(a) """
 
-
+""" 
 def multiplication_item_list(L,n):
     resultat=[]
     for i in L:
@@ -75,3 +75,15 @@ def multiplication_item_list(L,n):
 L=[1,2,3,4,5,6,7,8,9,10]
 a=multiplication_item_list(L,2)
 print(a) 
+ """
+
+def sum_list(L):
+    s=0
+    for i in L:
+        s=s+i  # ici il y a un difference entre s=(s+i)/len(L) donne pas la valeur exact
+        moy=s/len(L)
+    return moy
+
+L=[4,4,5]
+moyen=sum_list(L)
+print(f"la moyen de L  est {moyen}")
