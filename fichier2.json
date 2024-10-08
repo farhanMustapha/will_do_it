@@ -1,0 +1,4961 @@
+[
+  
+  {
+    "code": "1",
+    "titre": "Comptes de Financement Permanent"
+  },
+  {
+    "code": "11",
+    "titre": "Capitaux Propres"
+  },
+  {
+    "code": "1111",
+    "titre": "Capital Social"
+  },
+  {
+    "code": "1112",
+    "titre": "Fonds de Dotation"
+  },
+  {
+    "code": "1117",
+    "titre": "Capital Personnel"
+  },
+  {
+    "code": "11171",
+    "titre": "Capital Individuel"
+  },
+  {
+    "code": "11175",
+    "titre": "Compte de l'Exploitant"
+  },
+  {
+    "code": "1119",
+    "titre": "Actionnaires  Capital souscrit non appelé"
+  },
+  {
+    "code": "112",
+    "titre": "Primes d'émission  de fusion et d'apport"
+  },
+  {
+    "code": "1121",
+    "titre": "Primes d'émission"
+  },
+  {
+    "code": "1122",
+    "titre": "Primes de Fusion"
+  },
+  {
+    "code": "1123",
+    "titre": "Primes d'apport"
+  },
+  {
+    "code": "113",
+    "titre": "Ecarts de réevaluation"
+  },
+  {
+    "code": "1130",
+    "titre": "Ecarts de réevaluation"
+  },
+  {
+    "code": "114",
+    "titre": "Réserve légale"
+  },
+  {
+    "code": "1140",
+    "titre": "Réserve légale"
+  },
+  {
+    "code": "115",
+    "titre": "Autres réserves"
+  },
+  {
+    "code": "1151",
+    "titre": "Réserves statutaires ou contractuelles"
+  },
+  {
+    "code": "1152",
+    "titre": "Réserves facultatives"
+  },
+  {
+    "code": "1155",
+    "titre": "Réserves réglementaires"
+  },
+  {
+    "code": "116",
+    "titre": "Report à nouveau"
+  },
+  {
+    "code": "1161",
+    "titre": "Report à nouveau (solde créditeur)"
+  },
+  {
+    "code": "1169",
+    "titre": "Report à nouveau (solde débiteur)"
+  },
+  {
+    "code": "118",
+    "titre": "Ràsultat net en Instance d'Affectation"
+  },
+  {
+    "code": "1181",
+    "titre": "Résultat net en Instance d'Affectation (Solde Créditeur)"
+  },
+  {
+    "code": "1189",
+    "titre": "Résultat net en Instance d'Affectation (Solde débiteur)"
+  },
+  {
+    "code": "119",
+    "titre": "Résultat net de l'exercice"
+  },
+  {
+    "code": "1191",
+    "titre": "Résultat net de l'exercice (Solde créditeur)"
+  },
+  {
+    "code": "1199",
+    "titre": "Résultat net de l'exercice (Solde débiteur)"
+  },
+  {
+    "code": "13",
+    "titre": "Capitaux Propres et Assimilés"
+  },
+  {
+    "code": "131",
+    "titre": "Subventions d'investissement"
+  },
+  {
+    "code": "1311",
+    "titre": "Subvention d'investissement reçus"
+  },
+  {
+    "code": "1319",
+    "titre": "Subvention d'investissement inscrits au compte de produit et charges"
+  },
+  {
+    "code": "135",
+    "titre": "Provisions réglementées"
+  },
+  {
+    "code": "1351",
+    "titre": "Provisions pour amortissements dérogatoires"
+  },
+  {
+    "code": "1352",
+    "titre": "Provisions pour plus-values en instance d'imposition"
+  },
+  {
+    "code": "1354",
+    "titre": "Provisions Pour Investissements"
+  },
+  {
+    "code": "1355",
+    "titre": "Provisions pour reconstitution des gisements"
+  },
+  {
+    "code": "1356",
+    "titre": "Provisions pour acquisition et construction de logements"
+  },
+  {
+    "code": "1358",
+    "titre": "Autres provisions réglementées"
+  },
+  {
+    "code": "14",
+    "titre": "Dettes de Financement"
+  },
+  {
+    "code": "141",
+    "titre": "Emprunts Obligataires"
+  },
+  {
+    "code": "1410",
+    "titre": "Emprunts Obligataires"
+  },
+  {
+    "code": "148",
+    "titre": "Autres dettes de Financement"
+  },
+  {
+    "code": "1481",
+    "titre": "Emprunts auprés des établissements de crédits"
+  },
+  {
+    "code": "1482",
+    "titre": "Avance de l'Etat"
+  },
+  {
+    "code": "1483",
+    "titre": "Dettes rattachées à des participations"
+  },
+  {
+    "code": "1484",
+    "titre": "Billets de Fonds"
+  },
+  {
+    "code": "1485",
+    "titre": "Avances reçus et comptes courants bloqués"
+  },
+  {
+    "code": "1486",
+    "titre": "Fournisseurs d'immobilisations"
+  },
+  {
+    "code": "1487",
+    "titre": "Dépots et cautionnements reçus"
+  },
+  {
+    "code": "1488",
+    "titre": "Dettes de Financement diverses"
+  },
+  {
+    "code": "15",
+    "titre": "Provisions Durables Pour Risques et Charges"
+  },
+  {
+    "code": "151",
+    "titre": "Provisions pour Risques"
+  },
+  {
+    "code": "1511",
+    "titre": "Provisions pour litiges"
+  },
+  {
+    "code": "1512",
+    "titre": "Provisions pour garanties données aux clients"
+  },
+  {
+    "code": "1513",
+    "titre": "Provisions pour propre assureur"
+  },
+  {
+    "code": "1514",
+    "titre": "Provisions pour pertes sur marché à terme"
+  },
+  {
+    "code": "1515",
+    "titre": "Provisions pour amendes  doubles droits  pénalités"
+  },
+  {
+    "code": "1516",
+    "titre": "Provisions pour pertes de change"
+  },
+  {
+    "code": "1518",
+    "titre": "Autres provisions pour risque"
+  },
+  {
+    "code": "155",
+    "titre": "Provisions pour charges"
+  },
+  {
+    "code": "1551",
+    "titre": "Provisions Pour impots"
+  },
+  {
+    "code": "1552",
+    "titre": "Provisions  pensions de retraite et obligations similaires"
+  },
+  {
+    "code": "1555",
+    "titre": "Provisions pour charges à répartir sur plusieurs exercices"
+  },
+  {
+    "code": "1558",
+    "titre": "Autres provisions pour charges"
+  },
+  {
+    "code": "16",
+    "titre": "Comptes de liaison des établissements et succursales"
+  },
+  {
+      "code": "160",
+      "titre": "Comptes de liaison des établissements et succursales"
+  },
+  {
+      "code": "1601",
+      "titre": "Comptes de liaison de sièges"
+  },
+  {
+      "code": "1605",
+      "titre": "Comptes de liaison des établissements"
+  },
+  {
+    "code": "17",
+    "titre": "Ecarts de conversion - Passif"
+  },
+  {
+    "code": "171",
+    "titre": "Augmentation des créances immobilisées"
+  },
+  {
+    "code": "1710",
+    "titre": "Augmentation des créances immobilisées"
+  },
+  {
+    "code": "172",
+    "titre": "Diminution des dettes de Financement"
+  },
+  {
+    "code": "1720",
+    "titre": "Diminution des dettes de Financement"
+  },
+  {
+    "code": "2",
+    "titre": "Comptes d'Actif Immobilisé"
+  },
+  {
+    "code": "21",
+    "titre": "Immobilisation en non-valeurs"
+  },
+  {
+    "code": "211",
+    "titre": "Frais Préliminaires"
+  },
+  {
+    "code": "2111",
+    "titre": "Frais de Constitution"
+  },
+  {
+    "code": "2112",
+    "titre": "Frais préalables au démarrage"
+},
+{
+    "code": "2113",
+    "titre": "Frais d'augmentation du capital"
+},
+{
+    "code": "2114",
+    "titre": "Frais sur opérations de fusion, scissions et transformations"
+},
+{
+    "code": "2116",
+    "titre": "Frais de prospection"
+},
+{
+    "code": "2117",
+    "titre": "Frais de publicité"
+},
+{
+    "code": "2118",
+    "titre": "Autres frais préliminaires"
+},
+{
+    "code": "212",
+    "titre": "Charges à répartir sur plusieurs exercices"
+},
+  {
+    "code": "2121",
+    "titre": "Frais d'acquisition des immobilisations"
+  },
+  {
+    "code": "2125",
+    "titre": "Frais d'émission des emprunts"
+},
+{
+    "code": "2128",
+    "titre": "Autres charges à répartir"
+},
+  {
+    "code": "213",
+    "titre": "Primes de remboursement des obligations"
+  },
+  {
+    "code": "2130",
+    "titre": "Primes de remboursement des obligations"
+  },
+  {
+    "code": "22",
+    "titre": "Immobilisation Incorporelles"
+  },
+  {
+    "code": "221",
+    "titre": "Immobilisations en recherche et Développement"
+  },
+  {
+    "code": "2210",
+    "titre": "Immobilisations en recherche et Développement"
+  },
+  {
+    "code": "222",
+    "titre": "Brevets  marques  droits et valeurs similaires"
+  },
+  {
+    "code": "2220",
+    "titre": "Brevets  marques  droits et valeurs similaires"
+  },
+  {
+    "code": "223",
+    "titre": "Fonds Commercial"
+  },
+  {
+    "code": "2230",
+    "titre": "Fonds Commercial"
+  },
+  {
+    "code": "228",
+    "titre": "Autres immobilisations Incorporelles"
+  },
+  {
+    "code": "2285",
+    "titre": "Autres immobilisations Incorporelles"
+  },
+  {
+    "code": "23",
+    "titre": "Immobilisations Corporelles"
+  },
+  {
+    "code": "231",
+    "titre": "Terrains"
+  },
+  {
+    "code": "2311",
+    "titre": "Terrains nus"
+  },
+  {
+    "code": "2312",
+    "titre": "Terrains aménagés"
+  },
+  {
+    "code": "2313",
+    "titre": "Terrains batis"
+  },
+  {
+    "code": "2314",
+    "titre": "Terrains de gisement"
+  },
+  {
+    "code": "2316",
+    "titre": "Agencement et aménagements de terrains"
+  },
+  {
+    "code": "2318",
+    "titre": "Autres terrains"
+  },
+  {
+    "code": "232",
+    "titre": "Construction"
+  },
+  {
+    "code": "2321",
+    "titre": "Batiments"
+  },
+  {
+    "code": "23211",
+    "titre": "Batiments industriels (A  B...)"
+  },
+  {
+    "code": "23214",
+    "titre": "Batiments administratifs et commerciaux (A  B)"
+  },
+  {
+    "code": "23218",
+    "titre": "Autres batiments"
+  },
+  {
+    "code": "2323",
+    "titre": "Construction sur terrains d'autrui"
+  },
+  {
+    "code": "2325",
+    "titre": "Ouvrages d'infrastructures"
+  },
+  {
+    "code": "2327",
+    "titre": "Agencement et aménagements des constructions"
+  },
+  {
+    "code": "2328",
+    "titre": "Autres constructions"
+  },
+  {
+    "code": "233",
+    "titre": "Installations Techniques  matériel et outillage"
+  },
+  {
+    "code": "2331",
+    "titre": "Installations Techniques"
+  },
+  {
+    "code": "2332",
+    "titre": "Matériel et outillage"
+  },
+  {
+    "code": "23321",
+    "titre": "Matériel"
+  },
+  {
+    "code": "23324",
+    "titre": "Outillage"
+  },
+  {
+    "code": "2333",
+    "titre": "Emballages récupérables identifiables"
+  },
+  {
+    "code": "2338",
+    "titre": "Autres Installations techniques  matériel et outillage"
+  },
+  {
+    "code": "234",
+    "titre": "Matériel de transport"
+  },
+  {
+    "code": "2340",
+    "titre": "Matériel de transport"
+  },
+  {
+    "code": "235",
+    "titre": "Mobilier  matériel de bureau et aménagements divers"
+  },
+  {
+    "code": "2351",
+    "titre": "Mobilier de bureau"
+  },
+  {
+    "code": "2352",
+    "titre": "Matériel de bureau"
+  },
+  {
+    "code": "2355",
+    "titre": "Matériel Informatique"
+  },
+  {
+    "code": "2356",
+    "titre": "Agencement  installations et aménagements divers (de biens n'appartenant pas à l'entreprise)"
+  },
+  {
+    "code": "2358",
+    "titre": "Autres mobiliers  matériel de bureau et aménagements divers"
+  },
+  {
+    "code": "238",
+    "titre": "Autres immobilisations corporelles"
+  },
+  {
+    "code": "2380",
+    "titre": "Autres immobilisations corporelles"
+  },
+  {
+    "code": "239",
+    "titre": "Immobilisations corporelles en cours"
+  },
+  {
+    "code": "2392",
+    "titre": "immobilisations Corporelles en cours et terrains de constructions"
+  },
+  {
+    "code": "2393",
+    "titre": "Immobilisations corporelles en cours et terrains des installations techniques, matériel et outillage"
+},
+{
+    "code": "2394",
+    "titre": "Immobilisations corporelles en cours de matériel de transports"
+},
+{
+    "code": "2395",
+    "titre": "Immobilisations corporelles en cours de mobilier, matériel de bureau et aménagement divers"
+},
+{
+    "code": "2397",
+    "titre": "Avances et acomptes versés sur commandes d'immobilisations corporelles"
+},
+{
+    "code": "2398",
+    "titre": "Autres immobilisations corporelles en cours"
+},
+{
+    "code": "24 - 25",
+    "titre": "Immobilisations financières"
+},
+{
+    "code": "241",
+    "titre": "Prêts immobilisés"
+},
+{
+    "code": "2411",
+    "titre": "Prêts au personnel"
+},
+{
+    "code": "2415",
+    "titre": "Prêts aux associés"
+},
+  {
+    "code": "2416",
+    "titre": "Billets de Fonds"
+  },
+  {
+    "code": "2418",
+    "titre": "Autres préts"
+  },
+  {
+    "code": "248",
+    "titre": "Autres créances financiéres"
+  },
+  {
+    "code": "2481",
+    "titre": "Titres immobilisés (Droits de créance)"
+  },
+  {
+    "code": "24811",
+    "titre": "Obligations"
+  },
+  {
+    "code": "24813",
+    "titre": "Bons d'équipements"
+  },
+  {
+    "code": "24818",
+    "titre": "Bons divers"
+  },
+  {
+    "code": "2483",
+    "titre": "Créances rattachées à des participations"
+  },
+  {
+    "code": "2486",
+    "titre": "Dépôts et cautionnements versés"
+  },
+  {
+    "code": "24861",
+    "titre": "Dépôts"
+  },
+  {
+    "code": "24864",
+    "titre": "Cautionnements"
+  },
+  {
+    "code": "2487",
+    "titre": "Créances Immobilisées"
+  },
+  {
+    "code": "2488",
+    "titre": "Créances financières diverses"
+  },
+  {
+    "code": "251",
+    "titre": "Titres de participation"
+  },
+  {
+    "code": "2510",
+    "titre": "Titres de participation"
+  },
+  {
+    "code": "258",
+    "titre": "Autres titres immobilisés (Titres de propriété)"
+  },
+  {
+    "code": "2581",
+    "titre": "Actions"
+  },
+  {
+    "code": "2588",
+    "titre": "Titres divers"
+  },
+  {
+    "code": "27",
+    "titre": "Ecarts de conversion Actif"
+  },
+  {
+    "code": "271",
+    "titre": "Diminution des créances Immobilisées"
+  },
+  {
+    "code": "2710",
+    "titre": "Diminution des créances Immobilisées"
+  },
+  {
+    "code": "272",
+    "titre": "Augmentation des dettes de financement"
+  },
+  {
+    "code": "2720",
+    "titre": "Augmentation des dettes de financement"
+  },
+  {
+    "code": "28",
+    "titre": "Amortissements des immobilisations"
+  },
+  {
+    "code": "281",
+    "titre": "Amortissements des en non-valeurs"
+  },
+  {
+    "code": "2811",
+    "titre": "Amortissements des frais Préliminaires"
+  },
+  {
+    "code": "28111",
+    "titre": "Amortissements des Faris de constitution"
+  },
+  {
+    "code": "28112",
+    "titre": "Amortissement des frais Préliminaires au démarrage"
+  },
+  {
+    "code": "28113",
+    "titre": "Amortissements des frais d'augmentation de capital"
+  },
+  {
+    "code": "28114",
+    "titre": "Amortissements des frais sur opérations des fusions scissions et transformations"
+  },
+  {
+    "code": "28116",
+    "titre": "Amortissements des frais d prospection"
+  },
+  {
+    "code": "28117",
+    "titre": "Amortissements des frais de publicité"
+  },
+  {
+    "code": "28118",
+    "titre": "Amortissements des autres frais Préliminaires"
+  },
+  {
+    "code": "2812",
+    "titre": "Amortissements des charges à répartir"
+  },
+  {
+    "code": "28121",
+    "titre": "Amortissements des frais d'acquisition des immobilisations"
+  },
+  {
+    "code": "28125",
+    "titre": "Amortissements des frais d'émission des emprunts"
+  },
+  {
+    "code": "28128",
+    "titre": "Amortissements des autres charges à répartir"
+  },
+  {
+    "code": "28813",
+    "titre": "Amortissements  primes de remboursement des obligations"
+  },
+  {
+    "code": "282",
+    "titre": "Amortissements des immobilisations incorporelles"
+  },
+  {
+    "code": "2821",
+    "titre": "Amortissement de l'immobilisation en recherche et développement"
+  },
+  {
+    "code": "2822",
+    "titre": "Amortissement des brevets  marques  droits et valeurs similaires"
+  },
+  {
+    "code": "2823",
+    "titre": "Amortissement du fond commercial"
+  },
+  {
+    "code": "2828",
+    "titre": "Amortissement des autres immobilisations incorporelles"
+  },
+  {
+    "code": "283",
+    "titre": "Amortissements des immobilisations corporelles"
+  },
+  {
+    "code": "2831",
+    "titre": "Amortissement des terrains"
+  },
+  {
+    "code": "28311",
+    "titre": "Amortissement des terrains nus"
+  },
+  {
+    "code": "28312",
+    "titre": "Amortissement des terrains aménagés"
+  },
+  {
+    "code": "28313",
+    "titre": "Amortissement des terrains bâtis"
+  },
+  {
+    "code": "28314",
+    "titre": "Amortissement des  terrains de gisement"
+  },
+  {
+    "code": "28316",
+    "titre": "Amortissement des agencements et aménagements des terrains"
+  },
+  {
+    "code": "28318",
+    "titre": "Amortissement des autres terrains"
+  },
+  {
+    "code": "2832",
+    "titre": "Amortissement des autres construction"
+  },
+  {
+    "code": "28321",
+    "titre": "Amortissement des batiments"
+  },
+  {
+    "code": "28323",
+    "titre": "Amortissement des construction sur terrains d'autrui"
+  },
+  {
+    "code": "28325",
+    "titre": "Amortissement des ouvrages d'infrastructure"
+  },
+  {
+    "code": "28327",
+    "titre": "Amortissement des installations  agencements et aménagements des constructions"
+  },
+  {
+    "code": "28328",
+    "titre": "Amortissement des autres constructions"
+  },
+  {
+    "code": "2833",
+    "titre": "Amortissement des Installations techniques  matériels et outillage"
+  },
+  {
+    "code": "28331",
+    "titre": "Amortissement des installations techniques"
+  },
+  {
+    "code": "28332",
+    "titre": "Amortissement du matériel et outillage"
+  },
+  {
+    "code": "28333",
+    "titre": "Amortissement des emballages récupérables identifiables"
+  },
+  {
+    "code": "28338",
+    "titre": "Amortissement des autres installations techniques"
+  },
+  {
+    "code": "2834",
+    "titre": "Amortissement du matériel de transport"
+  },
+  {
+    "code": "2835",
+    "titre": "Amortissement du mobilier  matériel de bureau"
+  },
+  {
+    "code": "28351",
+    "titre": "Amortissement du mobilier de bureau"
+  },
+  {
+    "code": "28352",
+    "titre": "Amortissement du matériel de bureau"
+  },
+  {
+    "code": "28355",
+    "titre": "Amortissement du matériel informatique"
+  },
+  {
+    "code": "28356",
+    "titre": "Amortissement des agencements  installations et aménagements divers"
+  },
+  {
+    "code": "28358",
+    "titre": "Amortissement des autres mobilier  matériel de bureau et aménagements divers"
+  },
+  {
+    "code": "2838",
+    "titre": "Amortissement des autres immobilisations corporelles"
+  },
+  {
+    "code": "29",
+    "titre": "Provisions pour dépréciation des immobilisations"
+  },
+  {
+    "code": "292",
+    "titre": "Provisions pour dépréciation des immobilisations incorporelles"
+  },
+  {
+    "code": "2920",
+    "titre": "Provisions pour dépréciation des immobilisations incorporelles"
+  },
+  {
+    "code": "293",
+    "titre": "Provisions pour dépréciation des immobilisations corporelles"
+  },
+  {
+    "code": "2930",
+    "titre": "Provisions pour dépréciation des immobilisations corporelles"
+  },
+  {
+    "code": "294 - 295",
+    "titre": "Provisions pour dépréciation des immobilisations financiéres"
+  },
+  {
+    "code": "2941",
+    "titre": "Provisions pour dépréciation des préts immobilisés"
+  },
+  {
+    "code": "2948",
+    "titre": "Provisions pour dépréciation des autres créances financiéres"
+  },
+  {
+    "code": "2951",
+    "titre": "Provisions pour dépréciation des titres de participations"
+  },
+  {
+    "code": "2958",
+    "titre": "Provisions pour dépréciation des autres immobilisés"
+  },
+  {
+    "code": "3",
+    "titre": "Comptes d'actif Circulation (Hors Trésorerie)"
+  },
+  {
+    "code": "31",
+    "titre": "Stocks"
+  },
+  {
+    "code": "311",
+    "titre": "Marchandises"
+  },
+  {
+    "code": "3111",
+    "titre": "Marchandises (Groupe A)"
+  },
+  {
+    "code": "3112",
+    "titre": "Marchandises (Groupe B)"
+  },
+  {
+    "code": "3116",
+    "titre": "Marchandises en cours de route"
+  },
+  {
+    "code": "3118",
+    "titre": "Autres marchandises"
+  },
+  {
+    "code": "312",
+    "titre": "Matières et fournitures consommables"
+  },
+  {
+    "code": "3121",
+    "titre": "Matières premières"
+  },
+  {
+    "code": "31211",
+    "titre": "Matières premières (Groupe A)"
+  },
+  {
+    "code": "31212",
+    "titre": "Matières premières (Groupe B)"
+  },
+  {
+    "code": "3122",
+    "titre": "Matières et fournitures consommables"
+  },
+  {
+    "code": "31221",
+    "titre": "Matières consommables (Groupe A)"
+  },
+  {
+    "code": "31222",
+    "titre": "Matières consommables (Groupe B)"
+  },
+  {
+    "code": "31223",
+    "titre": "Combustibles"
+  },
+  {
+    "code": "31224",
+    "titre": "Produits d'entretien"
+  },
+  {
+    "code": "31225",
+    "titre": "Fournitures d'atelier et d'usine"
+  },
+  {
+    "code": "31226",
+    "titre": "Fournitures de magasin"
+  },
+  {
+    "code": "31227",
+    "titre": "Fournitures de Bureau"
+  },
+  {
+    "code": "3123",
+    "titre": "Emballages"
+  },
+  {
+    "code": "31231",
+    "titre": "Emballages Perdus"
+  },
+  {
+    "code": "31232",
+    "titre": "Emballages récupérables non identifiables"
+  },
+  {
+    "code": "31233",
+    "titre": "Emballages à usage mixte"
+  },
+  {
+    "code": "3126",
+    "titre": "Matières et fournitures consommables en cours de route"
+  },
+  {
+    "code": "3128",
+    "titre": "Autres matières et fournitures consommables"
+  },
+  {
+    "code": "313",
+    "titre": "Produits en cours"
+  },
+  {
+    "code": "3131",
+    "titre": "Biens en cours"
+  },
+  {
+    "code": "31311",
+    "titre": "Biens produits en cours"
+  },
+  {
+    "code": "31312",
+    "titre": "Biens Intermédiaires en cours"
+  },
+  {
+    "code": "31317",
+    "titre": "Biens résiduels en cours"
+  },
+  {
+    "code": "3134",
+    "titre": "Services en cours"
+  },
+  {
+    "code": "31341",
+    "titre": "Travaux en cours"
+  },
+  {
+    "code": "31342",
+    "titre": "Etudes en cours"
+  },
+  {
+    "code": "31343",
+    "titre": "Prestations en cours"
+  },
+  {
+    "code": "3138",
+    "titre": "Autres produits en cours"
+  },
+  {
+    "code": "314",
+    "titre": "Produits intermédiaires et produits résiduels"
+  },
+  {
+    "code": "3141",
+    "titre": "Produits intermédiaires"
+  },
+  {
+    "code": "31411",
+    "titre": "Produits intermédiaires (Groupe A)"
+  },
+  {
+    "code": "31412",
+    "titre": "Produits intermédiaires (Groupe B)"
+  },
+  {
+    "code": "3145",
+    "titre": "Produits résiduels (ou matières de récupération)"
+  },
+  {
+    "code": "31451",
+    "titre": "Déchets"
+  },
+  {
+    "code": "31452",
+    "titre": "Rebuts"
+  },
+  {
+    "code": "31453",
+    "titre": "Matières de récupération"
+  },
+  {
+    "code": "3148",
+    "titre": "Autres produits intermédiaires et produits résiduels"
+  },
+  {
+    "code": "315",
+    "titre": "Produits Finis"
+  },
+  {
+    "code": "3151",
+    "titre": "Produits Finis (groupe A)"
+  },
+  {
+    "code": "3152",
+    "titre": "Produits Finis (groupe B)"
+  },
+  {
+    "code": "3156",
+    "titre": "Produits finis en cours de route"
+  },
+  {
+    "code": "3158",
+    "titre": "Autres produits finis"
+  },
+  {
+    "code": "34",
+    "titre": "Créances de l'actif circulant"
+  },
+  {
+    "code": "341",
+    "titre": "Fournisseurs débiteur  avances et acomptes"
+  },
+  {
+    "code": "3411",
+    "titre": "Fournisseurs - avances et acomptes versés sur commandes d'exploitation"
+  },
+  {
+    "code": "3413",
+    "titre": "Fournisseurs - créances pour emballages et matériels à rendre"
+  },
+  {
+    "code": "3417",
+    "titre": "Rabais  remises et ristournes à obtenir - avoirs non encoure reçus"
+  },
+  {
+    "code": "3418",
+    "titre": "Autres fournisseurs débiteurs"
+  },
+  {
+    "code": "342",
+    "titre": "Clients et comptes rattachés"
+  },
+  {
+    "code": "3421",
+    "titre": "Clients"
+  },
+  {
+    "code": "34211",
+    "titre": "Clients (Groupe A)"
+  },
+  {
+    "code": "34212",
+    "titre": "Clients (Groupe B)"
+  },
+  {
+    "code": "3423",
+    "titre": "Clients - retenues de garanties"
+  },
+  {
+    "code": "3424",
+    "titre": "Clients douteux ou litigieux"
+  },
+  {
+    "code": "3425",
+    "titre": "Clients - effets à recevoir"
+  },
+  {
+    "code": "3427",
+    "titre": "Clients - factures à établir et créances sur travaux non encore facturables"
+  },
+  {
+    "code": "34271",
+    "titre": "Clients - factures à établir"
+  },
+  {
+    "code": "34272",
+    "titre": "Créances sur travaux non encore facturables"
+  },
+  {
+    "code": "3428",
+    "titre": "Autres clients et comptes rattachés"
+  },
+  {
+    "code": "343",
+    "titre": "Personnel - débiteur"
+  },
+  {
+    "code": "3431",
+    "titre": "Avances et acomptes au personnel"
+  },
+  {
+    "code": "3438",
+    "titre": "Personnel - autres débiteurs"
+  },
+  {
+    "code": "345",
+    "titre": "Etat - débiteur"
+  },
+  {
+    "code": "3451",
+    "titre": "Subventions à recevoir"
+  },
+  {
+    "code": "34511",
+    "titre": "Subventions d'investissements à recevoir"
+  },
+  {
+    "code": "34512",
+    "titre": "subventions d'exploitation à recevoir"
+  },
+  {
+    "code": "34513",
+    "titre": "Subventions d'équilibre à recevoir"
+  },
+  {
+    "code": "3453",
+    "titre": "Acomptes sur impôts sur les résultats"
+  },
+  {
+    "code": "3455",
+    "titre": "État - TVA récupérable"
+  },
+  {
+    "code": "34551",
+    "titre": "État - TVA récupérable sur immobilisations"
+  },
+  {
+    "code": "34552",
+    "titre": "État - TVA récupérable sur charges"
+  },
+  {
+    "code": "3456",
+    "titre": "État - crédit de TVA (suivant déclarations)"
+  },
+  {
+    "code": "3458",
+    "titre": "État - autres comptes débiteurs"
+  },
+  {
+    "code": "346",
+    "titre": "Comptes d'associés - débiteurs"
+  },
+  {
+    "code": "3461",
+    "titre": "Associés - comptes d'apport en société"
+  },
+  {
+    "code": "3462",
+    "titre": "Actionnaires - capital souscrit et appelé non versé"
+  },
+  {
+    "code": "3463",
+    "titre": "Comptes courants des associés - débiteurs"
+  },
+  {
+    "code": "3464",
+    "titre": "Associés - opérations faites en commun"
+  },
+  {
+    "code": "3467",
+    "titre": "Créances rattachées aux comptes d'associés"
+  },
+  {
+    "code": "3468",
+    "titre": "Autres comptes d'associés - débiteurs"
+  },
+  {
+    "code": "348",
+    "titre": "Autres débiteurs"
+  },
+  {
+    "code": "3481",
+    "titre": "Créances sur cession d'immobilisations"
+  },
+  {
+    "code": "3482",
+    "titre": "Créances sur cession d'éléments d'actif circulant"
+  },
+  {
+    "code": "3487",
+    "titre": "Créances rattachées aux autres débiteurs"
+  },
+  {
+    "code": "3488",
+    "titre": "Divers débiteurs"
+  },
+  {
+    "code": "349",
+    "titre": "Comptes de régularisation"
+  },
+  {
+    "code": "3491",
+    "titre": "Charges constatées d'avance"
+  },
+  {
+    "code": "3493",
+    "titre": "Intérêts courus et non échus à percevoir"
+  },
+  {
+    "code": "3495",
+    "titre": "Comptes de participations périodique des charges"
+  },
+  {
+    "code": "3497",
+    "titre": "Comptes transitoires ou d'attente - débiteurs"
+  },
+  {
+    "code": "35",
+    "titre": "Titres te valeurs de placement"
+  },
+  {
+    "code": "350",
+    "titre": "Titres te valeurs de placement"
+  },
+  {
+    "code": "3501",
+    "titre": "Actions  partie libérée"
+  },
+  {
+    "code": "3502",
+    "titre": "Actions  partie non libérée"
+  },
+  {
+    "code": "3504",
+    "titre": "Obligations"
+  },
+  {
+    "code": "3506",
+    "titre": "Bons de caisse et bons de trésor"
+  },
+  {
+    "code": "35061",
+    "titre": "Bons de caisse"
+  },
+  {
+    "code": "35062",
+    "titre": "Bons de trésor"
+  },
+  {
+    "code": "3508",
+    "titre": "Autres titres et valeurs de placement similaires"
+  },
+  {
+    "code": "37",
+    "titre": "Ecarts de conversion-actif (éléments circulants)"
+  },
+  {
+    "code": "370",
+    "titre": "Ecarts de conversion-actif (éléments circulants)"
+  },
+  {
+    "code": "3701",
+    "titre": "Diminution des créances circulantes"
+  },  
+  {
+    "code": "3702",
+    "titre": "Diminution des dettes circulantes"
+  },
+  {
+    "code": "39",
+    "titre": "Provision pour dépréciation des comptes de l'actif circulant"
+  },
+  {
+    "code": "391",
+    "titre": "Provisions pour dépréciation des stocks"
+  },
+  {
+    "code": "3911",
+    "titre": "Provisions pour dépréciation des Marchandises"
+  },
+  {
+    "code": "3912",
+    "titre": "Provisions pour dépréciation des matières et fournitures"
+  },  
+  {
+    "code": "3913",
+    "titre": "Provisions pour dépréciation des produits en cours"
+  },
+  {
+    "code": "3914",
+    "titre": "Provisions pour dépréciation des produits intermidiaires"
+  },
+  {
+    "code": "3915",
+    "titre": "Provisions pour dépréciation des produits finis"
+  },
+  {
+    "code": "394",
+    "titre": "Provisions pour dépréciation des créances de l'actif circulant"
+  },
+  {
+    "code": "3941",
+    "titre": "Provisions pour dépréciation - fournisseurs débiteurs  avances et acomptes"
+  },
+  {
+    "code": "3942",
+    "titre": "Provisions pour dépréciation des clients et comptes rattachés"
+  },
+  {
+    "code": "3943",
+    "titre": "Provisions pour dépréciation du personnel - débiteur"
+  },
+  {
+    "code": "3946",
+    "titre": "Provisions pour dépréciation des comptes d'associés débiteurs"
+  },
+  {
+    "code": "3948",
+    "titre": "Provisions pour dépréciation des autres débiteurs"
+  },
+  {
+    "code": "395",
+    "titre": "Provisions pour dépréciation des titres et valeur de placement"
+  },
+  {
+    "code": "3950",
+    "titre": "Provisions pour dépréciation des titres et valeur de placement"
+  },
+  {
+    "code": "4",
+    "titre": "Comptes de passif circulant (Hors trésorerie)"
+  },
+  {
+    "code": "44",
+    "titre": "Dettes du passif circulant"
+  },
+  {
+    "code": "441",
+    "titre": "Fournisseurs et comptes rattachés"
+  },
+  {
+    "code": "4411",
+    "titre": "Fournisseurs"
+  },
+  {
+    "code": "44111",
+    "titre": "Fournisseurs - catégorie A"
+  },
+  {
+    "code": "44112",
+    "titre": "Fournisseurs - catégorie B"
+  },
+  {
+    "code": "4413",
+    "titre": "Fournisseurs - retenues de garantie"
+  },
+  {
+    "code": "4415",
+    "titre": "Fournisseurs - effets à payer"
+  },
+  {
+    "code": "4417",
+    "titre": "Fournisseurs - factures non parvenues"
+  },
+  {
+    "code": "4418",
+    "titre": "Autres fournisseurs et comptes rattachés"
+  },
+  {
+    "code": "442",
+    "titre": "Clients créditeurs  avances et acomptes"
+  },
+  {
+    "code": "4421",
+    "titre": "Clients - avances et acomptes reçus sur commandes en cours"
+  },
+  {
+    "code": "4425",
+    "titre": "Clients - dettes pour emballages et matériel consignés"
+  },
+  {
+    "code": "4427",
+    "titre": "Rabais  remises et ristournes à accorder - avoirs à établir"
+  },
+  {
+    "code": "4428",
+    "titre": "Autres clients créditeurs"
+  },
+  {
+    "code": "443",
+    "titre": "Personnel - créditeur"
+  },
+  {
+    "code": "4432",
+    "titre": "Rémunérations dues au personnel"
+  },
+  {
+    "code": "4433",
+    "titre": "Dépots du personnel créditeurs"
+  },
+  {
+    "code": "4434",
+    "titre": "Oppositions sur salaires"
+  },
+  {
+    "code": "4437",
+    "titre": "Charges de personnel à payer"
+  },
+  {
+    "code": "4438",
+    "titre": "Personnel - autres créditeurs"
+  },
+  {
+    "code": "444",
+    "titre": "Organismes sociaux"
+  },
+  {
+    "code": "4441",
+    "titre": "Caisse nationale de la sécurité sociale"
+  },
+  {
+    "code": "4443",
+    "titre": "Caisses de retraite"
+  },
+  {
+    "code": "4445",
+    "titre": "Mutuelles"
+  },
+  {
+    "code": "4447",
+    "titre": "charges sociales à payer"
+  },
+  {
+    "code": "4448",
+    "titre": "Autres organismes sociaux"
+  },
+  {
+    "code": "445",
+    "titre": "Etat - créditeur"
+  },
+  {
+    "code": "4452",
+    "titre": "Etat  impots  taxes et assimilés"
+  },
+  {
+    "code": "44521",
+    "titre": "Etat  taxe urbaine et taxe d'édilité"
+  },
+  {
+    "code": "44522",
+    "titre": "Etat  patente"
+  },
+  {
+    "code": "44525",
+    "titre": "Etat  PTS et PSN"
+  },
+  {
+    "code": "4453",
+    "titre": "Etat  impots sur les résultats"
+  },
+  {
+    "code": "4455",
+    "titre": "Etat  TVA facturée"
+  },
+  {
+    "code": "4456",
+    "titre": "Etat  TVA due (suivant déclarations)"
+  },
+  {
+    "code": "4457",
+    "titre": "Etat  impots et taxes à payer"
+  },
+  {
+    "code": "4458",
+    "titre": "Etat  autres comptes créditeurs"
+  },
+  {
+    "code": "446",
+    "titre": "Comptes d'associés - créditeurs"
+  },
+  {
+    "code": "4461",
+    "titre": "Associés - capital à rembourser"
+  },
+  {
+    "code": "4462",
+    "titre": "Associés - versements reçus sur augmentation de capital"
+  },
+  {
+    "code": "4463",
+    "titre": "Comptes courants des associés - créditeurs"
+  },
+  {
+    "code": "4464",
+    "titre": "Associés - opérations faites en commun"
+  },
+  {
+    "code": "4465",
+    "titre": "Associés - dividendes à payer"
+  },
+  {
+    "code": "4468",
+    "titre": "Autres comptes d'associés créditeurs"
+  },
+  {
+    "code": "448",
+    "titre": "Autres créanciers"
+  },
+  {
+    "code": "4481",
+    "titre": "Dettes sur acquisition des immobilisations"
+  },
+  {
+    "code": "4483",
+    "titre": "Dettes sur acquisition des titres et valeurs de placement"
+  },
+  {
+    "code": "4484",
+    "titre": "Obligations échus à rembourser"
+  },
+  {
+    "code": "4485",
+    "titre": "Obligations  coupons à payer"
+  },
+  {
+    "code": "4487",
+    "titre": "Dettes rattachées aux autres créanciers"
+  },
+  {
+    "code": "4488",
+    "titre": "Divers créanciers"
+  },
+  {
+    "code": "449",
+    "titre": "Comptes de régularisation - passif"
+  },
+  {
+    "code": "4491",
+    "titre": "Produits constatés d'avance"
+  },
+  {
+    "code": "4493",
+    "titre": "Intérets courus et non échus à payer"
+  },
+  {
+    "code": "4495",
+    "titre": "Comptes de répartition périodique des produits"
+  },
+  {
+    "code": "4497",
+    "titre": "Comptes transitoires ou d'attente - créditeurs"
+  },
+  {
+    "code": "45",
+    "titre": "Autres provisions pour risques et charges"
+  },
+  {
+    "code": "450",
+    "titre": "Autres provisions pour risque et charges"
+  },
+  {
+    "code": "4501",
+    "titre": "Provisions pour litiges"
+  },
+  {
+    "code": "4502",
+    "titre": "Provisions pour garanties données aux clients"
+  },
+  {
+    "code": "4505",
+    "titre": "Provisions pour amendes  doubles droits et pénalités"
+  },
+  {
+    "code": "4506",
+    "titre": "Provisions pour pertes de change"
+  },
+  {
+    "code": "4507",
+    "titre": "Provisions pour impots"
+  },
+  {
+    "code": "4508",
+    "titre": "Autres provisions pour risque et charges"
+  },
+  {
+    "code": "47",
+    "titre": "Ecarts de conversion - Passif"
+  },
+  {
+    "code": "470",
+    "titre": "Ecarts de conversion - Passif (éléments circulants)"
+  },
+  {
+    "code": "4701",
+    "titre": "Augmentation des créances circulantes"
+  },
+  {
+    "code": "4702",
+    "titre": "Diminution des dettes circulantes"
+  },
+  {
+    "code": "5",
+    "titre": "Comptes de trésorerie"
+  },
+  {
+    "code": "51",
+    "titre": "Trésorerie - actif"
+  },
+  {
+    "code": "511",
+    "titre": "Chéques et valeurs à encaisser"
+  },
+  {
+    "code": "5111",
+    "titre": "Chéques à encaisser ou à l'encaissement"
+  },
+  {
+    "code": "51111",
+    "titre": "Chéques en portefeuille"
+  },
+  {
+    "code": "51112",
+    "titre": "Chéques à l'encaissement"
+  },
+  {
+    "code": "5113",
+    "titre": "Effets à encaisser ou à l'encaissement"
+  },
+  {
+    "code": "51131",
+    "titre": "Effets échus à encaisser"
+  },
+  {
+    "code": "51132",
+    "titre": "Effets à l'encaissement"
+  },
+  {
+    "code": "5115",
+    "titre": "Virements de fonds"
+  },
+  {
+    "code": "5118",
+    "titre": "Autres valeurs à encaisser"
+  },
+  {
+    "code": "514",
+    "titre": "Banques  Trésorerie Générale et Chéques Postaux débiteurs"
+  },
+  {
+    "code": "5141",
+    "titre": "Banques (soldes débiteurs)"
+  },
+  {
+    "code": "5143",
+    "titre": "Trésorerie Générale"
+  },
+  {
+    "code": "5146",
+    "titre": "Chéques postaux"
+  },
+  {
+    "code": "5148",
+    "titre": "Autres établissements financiers et assimilés (soldes débiteurs)"
+  },
+  {
+    "code": "516",
+    "titre": "Caisses  régies d'avances et accréditifs"
+  },
+  {
+    "code": "5161",
+    "titre": "Caisses"
+  },
+  {
+    "code": "51611",
+    "titre": "Caisse Centrale"
+  },
+  {
+    "code": "51613",
+    "titre": "Caisse (Succursale ou agence A)"
+  },
+  {
+    "code": "51614",
+    "titre": "Caisse (Succursale ou agence B)"
+  },
+  {
+    "code": "5165",
+    "titre": "Régies d'avances et accréditifs"
+  },
+  {
+    "code": "55",
+    "titre": "Trésorerie - Passif"
+  },
+  {
+    "code": "552",
+    "titre": "Crédits d'escompte"
+  },
+  {
+    "code": "5520",
+    "titre": "Crédits d'escompte"
+  },
+  {
+    "code": "553",
+    "titre": "Crédits de trésorerie"
+  },
+  {
+    "code": "5530",
+    "titre": "Crédits de trésorerie"
+  },
+  {
+    "code": "554",
+    "titre": "Banques (soldes créditeurs)"
+  },
+  {
+    "code": "5541",
+    "titre": "Banques (soldes créditeurs)"
+  },
+  {
+    "code": "5548",
+    "titre": "Autres établissements financiers et assimilés (soldes créditeurs)"
+  },
+  {
+    "code": "59",
+    "titre": "Provisions pour dépréciation des comptes de trésorerie"
+  },
+  {
+    "code": "590",
+    "titre": "Provisions pour dépréciation des comptes de trésorerie"
+  },
+  {
+    "code": "5900",
+    "titre": "Provisions pour dépréciation des comptes de trésorerie"
+  },
+  {
+    "code": "6",
+    "titre": "Charges"
+  },
+  {
+    "code": "61",
+    "titre": "Charges d'exploitation"
+  },
+  {
+    "code": "611",
+    "titre": "Achats revendus de marchandises"
+  },
+  {
+    "code": "6111",
+    "titre": "Achats de marchandises (Groupe A)"
+  },
+  {
+    "code": "6112",
+    "titre": "Achats de marchandises (Groupe B)"
+  },
+  {
+    "code": "6114",
+    "titre": "Variation des stocks de marchandises"
+  },
+  {
+    "code": "6118",
+    "titre": "Achats revendus de marchandises des exercices antérieurs"
+  },
+  {
+    "code": "6119",
+    "titre": "Rabais  remises  et ristournes obtenus sur achats de marchandises"
+  },
+  {
+    "code": "612",
+    "titre": "Achats consommés de matiéres et fournitures"
+  },
+  {
+    "code": "6121",
+    "titre": "Achats de matiéres premières"
+  },
+  {
+    "code": "61211",
+    "titre": "Achats de matiéres premières A"
+  },
+  {
+    "code": "61212",
+    "titre": "Achats de matiéres premières B"
+  },
+  {
+    "code": "6122",
+    "titre": "Achats de matiéres et fournitures consommables"
+  },
+  {
+    "code": "61221",
+    "titre": "Achats de matiéres et fournitures A"
+  },
+  {
+    "code": "61222",
+    "titre": "Achats de matiéres et fournitures B"
+  },
+  {
+    "code": "61223",
+    "titre": "Achats de combustibles"
+  },
+  {
+    "code": "61224",
+    "titre": "Achats de produits d'entretien"
+  },
+  {
+    "code": "61225",
+    "titre": "Achats de fournitures d'atelier d'usine"
+  },
+  {
+    "code": "61226",
+    "titre": "Achats de fournitures de magasin"
+  },
+  {
+    "code": "61227",
+    "titre": "Achats de fournitures de bureau"
+  },
+  {
+    "code": "6123",
+    "titre": "Achats d'emballages"
+  },
+  {
+    "code": "61231",
+    "titre": "Achats d'emballages perdus"
+  },
+  {
+    "code": "61232",
+    "titre": "Achats d'emballages récupérables non identifiables"
+  },
+  {
+    "code": "61233",
+    "titre": "Achats d'emballages à usage mixte"
+  },
+  {
+    "code": "6124",
+    "titre": "Variation des stocks de matiéres et fournitures"
+  },
+  {
+    "code": "61241",
+    "titre": "Variation des stocks de matiéres premières"
+  },
+  {
+    "code": "61242",
+    "titre": "Variation des stocks de matiéres et fournitures consommables"
+  },
+  {
+    "code": "61243",
+    "titre": "Variation des stocks d'emballages"
+  },
+  {
+    "code": "6125",
+    "titre": "Achats non stockés de matiéres et fournitures"
+  },
+  {
+    "code": "61251",
+    "titre": "Achats de fournitures non stockables"
+  },
+  {
+    "code": "61252",
+    "titre": "Achats de fournitures d'entretien"
+  },
+  {
+    "code": "61253",
+    "titre": "Achats de petit outillage et de petit équipement"
+  },
+  {
+    "code": "61254",
+    "titre": "Achats de fournitures de bureau"
+  },
+  {
+    "code": "6126",
+    "titre": "Achats de travaux  études et prestations de services"
+  },
+  {
+    "code": "61261",
+    "titre": "Achats de travaux"
+  },
+  {
+    "code": "61262",
+    "titre": "Achats d'études"
+  },
+  {
+    "code": "61263",
+    "titre": "Achats des prestations de service"
+  },
+  {
+    "code": "6128",
+    "titre": "Achats des matiéres et des fournitures des exercices antérieurs"
+  },
+  {
+    "code": "6129",
+    "titre": "Rabais  remises  et ristournes obtenus sur achats consommés de matiéres et fournitures"
+  },
+  {
+    "code": "61291",
+    "titre": "Rabais  remises  et ristournes obtenus sur achats de matiéres premières"
+  },
+  {
+    "code": "61292",
+    "titre": "Rabais  remises  et ristournes obtenus sur achats de matiéres et fournitures consommables"
+  },
+  {
+    "code": "61293",
+    "titre": "Rabais  remises  et ristournes obtenus sur achats d'emballages"
+  },
+  {
+    "code": "61295",
+    "titre": "Rabais  remises  et ristournes obtenus sur achats non stockés"
+  },
+  {
+    "code": "61296",
+    "titre": "Rabais  remises  et ristournes obtenus sur achats de travaux  études et prestations de services"
+  },
+  {
+    "code": "61298",
+    "titre": "Rabais  remises  et ristournes obtenus sur achats de matiéres et fournitures des exercices antérieurs"
+  },
+  {
+    "code": "613 - 614",
+    "titre": "Autres charges externes"
+  },
+  {
+    "code": "6131",
+    "titre": "Locations et charges locatives"
+  },
+  {
+    "code": "61311",
+    "titre": "Location de terrains"
+  },
+  {
+    "code": "61312",
+    "titre": "Location de constructions"
+  },
+  {
+    "code": "61313",
+    "titre": "Location de matériel et d'outillage"
+  },
+  {
+    "code": "61314",
+    "titre": "Location de matériel et matériel de bureau"
+  },
+  {
+    "code": "61315",
+    "titre": "Location de matériel informatique"
+  },
+  {
+    "code": "61316",
+    "titre": "Location de matériel de transport"
+  },
+  {
+    "code": "61317",
+    "titre": "Malis sur emballages rendus"
+  },
+  {
+    "code": "61318",
+    "titre": "Location et charges locatives diverses"
+  },
+  {
+    "code": "6132",
+    "titre": "Redevances de crédit bail"
+  },
+  {
+    "code": "61321",
+    "titre": "Redevances de crédit bail  mobilier et matériel"
+  },
+  {
+    "code": "6133",
+    "titre": "Entretien et réparations"
+  },
+  {
+    "code": "61331",
+    "titre": "Entretien et réparations des biens immobiliers"
+  },
+  {
+    "code": "61332",
+    "titre": "Entretien et réparations des biens mobiliers"
+  },
+  {
+    "code": "61335",
+    "titre": "Maintenance"
+  },
+  {
+    "code": "6134",
+    "titre": "Primes d'assurance"
+  },
+  {
+    "code": "61341",
+    "titre": "Assurances multirisques (vol  incendie  responsabilité civile  etc.)"
+  },
+  {
+    "code": "61343",
+    "titre": "Assurances - Risques d'exploitation"
+  },
+  {
+    "code": "61345",
+    "titre": "Assurances - matériel de transport"
+  },
+  {
+    "code": "61348",
+    "titre": "Autres assurances"
+  },
+  {
+    "code": "6135",
+    "titre": "Rémunirations du personnel extérieurs à l'entreprise"
+  },
+  {
+    "code": "61351",
+    "titre": "Rémunirations du personnel occasionnel"
+  },
+  {
+    "code": "61352",
+    "titre": "Rémunirations du personnel intérimaire"
+  },
+  {
+    "code": "61353",
+    "titre": "Rémunirations du personnel détaché ou prété à l'entreprise"
+  },
+  {
+    "code": "6136",
+    "titre": "Rémunirations d'intermédiaires et honoraires"
+  },
+  {
+    "code": "61361",
+    "titre": "Commissions et courtages"
+  },
+  {
+    "code": "61365",
+    "titre": "honoraires"
+  },
+  {
+    "code": "61367",
+    "titre": "Frais d'actes et de contentieux"
+  },
+  {
+    "code": "6137",
+    "titre": "Redevances pour brevets  marques  droits et valeurs similaires"
+  },
+  {
+    "code": "61371",
+    "titre": "Redevances pour brevets"
+  },
+  {
+    "code": "61378",
+    "titre": "Autres redevances"
+  },
+  {
+    "code": "6141",
+    "titre": "Etudes  recherches et documentation"
+  },
+  {
+    "code": "61411",
+    "titre": "Etudes générales"
+  },
+  {
+    "code": "61413",
+    "titre": "Recherches"
+  },
+  {
+    "code": "61415",
+    "titre": "Documentation générale"
+  },
+  {
+    "code": "61416",
+    "titre": "Documentation technique"
+  },
+  {
+    "code": "6142",
+    "titre": "Transport"
+  },
+  {
+    "code": "61421",
+    "titre": "Transport du personnel"
+  },
+  {
+    "code": "61425",
+    "titre": "Transport sur achats"
+  },
+  {
+    "code": "61426",
+    "titre": "Transport sur ventes"
+  },
+  {
+    "code": "61428",
+    "titre": "Autres transports"
+  },
+  {
+    "code": "6143",
+    "titre": "Déplacements  missions et réceptions"
+  },
+  {
+    "code": "61431",
+    "titre": "Voyages et déplacements"
+  },
+  {
+    "code": "61433",
+    "titre": "Frais de déménagement"
+  },
+  {
+    "code": "61435",
+    "titre": "Missions"
+  },
+  {
+    "code": "61436",
+    "titre": "Réceptions"
+  },
+  {
+    "code": "6144",
+    "titre": "Publicité  publications et relations publiques"
+  },
+  {
+    "code": "61441",
+    "titre": "Annonces et insertions"
+  },
+  {
+    "code": "61442",
+    "titre": "Echantillons  catalogues et imprimés publicitaires"
+  },
+  {
+    "code": "61443",
+    "titre": "Foires et expositions"
+  },
+  {
+    "code": "61444",
+    "titre": "Primes de publicité"
+  },
+  {
+    "code": "61446",
+    "titre": "Publications"
+  },
+  {
+    "code": "61447",
+    "titre": "Cadeaux à la clientéle"
+  },
+  {
+    "code": "61448",
+    "titre": "Autres charges de publicité et relations publiques"
+  },
+  {
+    "code": "6145",
+    "titre": "Frais postaux et frais de télécommunications"
+  },
+  {
+    "code": "61451",
+    "titre": "Frais postaux"
+  },
+  {
+    "code": "61455",
+    "titre": "Frais de téléphone"
+  },
+  {
+    "code": "61456",
+    "titre": "Frais de télex et de télégrammes"
+  },
+  {
+    "code": "6146",
+    "titre": "Cotisations et dons"
+  },
+  {
+    "code": "61461",
+    "titre": "Cotisations"
+  },
+  {
+    "code": "61462",
+    "titre": "Dons"
+  },
+  {
+    "code": "6147",
+    "titre": "Services bancaires"
+  },
+  {
+    "code": "61471",
+    "titre": "Frais d'achat et de vente des titres"
+  },
+  {
+    "code": "61472",
+    "titre": "Frais sur effet de commerce"
+  },
+  {
+    "code": "61473",
+    "titre": "Frais et commissions sur services bancaires"
+  },
+  {
+    "code": "6148",
+    "titre": "Autres charges externes des exercices antérieurs"
+  },
+  {
+    "code": "6149",
+    "titre": "Rabais  remises et ristournes obtenus sur autres charges externes"
+  },
+  {
+    "code": "616",
+    "titre": "Impots et taxes"
+  },
+  {
+    "code": "6161",
+    "titre": "Impots et taxes directs"
+  },
+  {
+    "code": "61611",
+    "titre": "Taxe urbaine et taxe d'édilité"
+  },
+  {
+    "code": "61612",
+    "titre": "Patente"
+  },
+  {
+    "code": "61615",
+    "titre": "Taxes locales"
+  },
+  {
+    "code": "6165",
+    "titre": "Impots et taxes indirects"
+  },
+  {
+    "code": "6167",
+    "titre": "Impots  taxes et droits assimilés"
+  },
+  {
+    "code": "61671",
+    "titre": "Droits d'enregistrement et timbre"
+  },
+  {
+    "code": "61673",
+    "titre": "Taxes sur les véhicules"
+  },
+  {
+    "code": "61678",
+    "titre": "Autres Impots  taxes et droits assimilés"
+  },
+  {
+    "code": "6168",
+    "titre": "Impots et taxes des exercices antérieurs"
+  },
+  {
+    "code": "617",
+    "titre": "Charges de personnel"
+  },
+  {
+    "code": "6171",
+    "titre": "Rémunération du personnel"
+  },
+  {
+    "code": "61711",
+    "titre": "Appointements et salaires"
+  },
+  {
+    "code": "61712",
+    "titre": "Primes et gratifications"
+  },
+  {
+    "code": "61713",
+    "titre": "Indemnités et avantages divers"
+  },
+  {
+    "code": "61714",
+    "titre": "Commissions au personnel"
+  },
+  {
+    "code": "61715",
+    "titre": "Rémunération des administrateurs  gérants et associés"
+  },
+  {
+    "code": "6174",
+    "titre": "charges sociales"
+  },
+  {
+    "code": "61741",
+    "titre": "Cotisations de sécurité sociale"
+  },
+  {
+    "code": "61742",
+    "titre": "Cotisations aux caisses de retraite"
+  },
+  {
+    "code": "61743",
+    "titre": "Cotisations aux mutuelles"
+  },
+  {
+    "code": "61744",
+    "titre": "Prestations familiales"
+  },
+  {
+    "code": "61745",
+    "titre": "Assurances accidents de travail"
+  },
+  {
+    "code": "6176",
+    "titre": "Charges sociales diverses"
+  },
+  {
+    "code": "61761",
+    "titre": "Assurances groupe"
+  },
+  {
+    "code": "61762",
+    "titre": "Prestations de retraites"
+  },
+  {
+    "code": "61763",
+    "titre": "Allocations aux oeuvres sociales"
+  },
+  {
+    "code": "61764",
+    "titre": "Habillement et vétements de travail"
+  },
+  {
+    "code": "61765",
+    "titre": "Indemnités de préavis et de licenciement"
+  },
+  {
+    "code": "61766",
+    "titre": "Médecine du travail  pharmacie"
+  },
+  {
+    "code": "61768",
+    "titre": "Autres charges sociales diverses"
+  },
+  {
+    "code": "6177",
+    "titre": "Rémunération de l'exploitant"
+  },
+  {
+    "code": "61771",
+    "titre": "Appointements et salaires"
+  },
+  {
+    "code": "61774",
+    "titre": "Charges sociales sur appointements et salaires de l'exploitant"
+  },
+  {
+    "code": "6178",
+    "titre": "Charges de personnel des exercices antérieurs"
+  },
+  {
+    "code": "618",
+    "titre": "Autres charges d'exploitation"
+  },
+  {
+    "code": "6181",
+    "titre": "Jetons de présence"
+  },
+  {
+    "code": "6182",
+    "titre": "Pertes sur créances irrécouvrables"
+  },
+  {
+    "code": "6185",
+    "titre": "Pertes sur opérations faites en commun"
+  },
+  {
+    "code": "6186",
+    "titre": "Transferts de profits sur opérations faites en commun"
+  },
+  {
+    "code": "6188",
+    "titre": "Autres charges d'exploitation des exercices antérieurs"
+  },
+  {
+    "code": "619",
+    "titre": "Dotation d'exploitation"
+  },
+  {
+    "code": "6191",
+    "titre": "Dotations d'exploitation aux amortissements de l'immobilisation en non-valeurs"
+  },
+  {
+    "code": "61911",
+    "titre": "Dotations d'exploitation aux amortissements des frais Préliminaires"
+  },
+  {
+    "code": "61912",
+    "titre": "Dotations d'exploitation aux amortissements des charges à répartir"
+  },
+  {
+    "code": "6192",
+    "titre": "Dotations d'exploitation aux amortissements de l'immobilisation incorporelles"
+  },
+  {
+    "code": "61921",
+    "titre": "Dotations d'exploitation aux amortissements de l'immobilisation en recherche et développement"
+  },
+  {
+    "code": "61922",
+    "titre": "Dotations d'exploitation aux amortissements des brevets  marques  droits et valeurs similaires"
+  },
+  {
+    "code": "61923",
+    "titre": "Dotations d'exploitation aux amortissements du fonds commercial"
+  },
+  {
+    "code": "61928",
+    "titre": "Dotations d'exploitation aux amortissements des autres immobilisations incorporelles"
+  },
+  {
+    "code": "6193",
+    "titre": "Dotations d'exploitation aux amortissements des immobilisations corporelles"
+  },
+  {
+    "code": "61931",
+    "titre": "Dotations d'exploitation aux amortissements des terrains"
+  },
+  {
+    "code": "61932",
+    "titre": "Dotations d'exploitation aux amortissements des constructions"
+  },
+  {
+    "code": "61933",
+    "titre": "Dotations d'exploitation aux amortissements des installations techniques  matériel et outillage"
+  },
+  {
+    "code": "61934",
+    "titre": "Dotations d'exploitation aux amortissements du matériel de transport"
+  },
+  {
+    "code": "61935",
+    "titre": "Dotations d'exploitation aux amortissements des mobilier  matériel de bureau et aménagement divers"
+  },
+  {
+    "code": "61938",
+    "titre": "Dotations d'exploitation aux amortissements des autres immobilisations corporelles"
+  },
+  {
+    "code": "6194",
+    "titre": "Dotations d'exploitation aux provisions pour dépréciation des immobilisations"
+  },
+  {
+    "code": "61942",
+    "titre": "Dotations d'exploitation aux provisions pour dépréciation des immobilisations incorporelles"
+  },
+  {
+    "code": "61943",
+    "titre": "Dotations d'exploitation aux provisions pour dépréciation des immobilisations corporelles"
+  },  
+  {
+    "code": "6195",
+    "titre": "Dotations d'exploitation aux provisions pour risques et charges"
+  },
+  {
+    "code": "61955",
+    "titre": "Dotations d'exploitation aux provisions pour risques et charges durables"
+  },
+  {
+    "code": "61957",
+    "titre": "Dotations d'exploitation aux provisions pour risques et charges momentanés"
+  },
+  {
+    "code": "6196",
+    "titre": "Dotations d'exploitation aux provisions pour dépréciation de l'actif circulant"
+  },
+  {
+    "code": "61961",
+    "titre": "Dotations d'exploitation aux provisions pour dépréciation des stocks"
+  },
+  {
+    "code": "61964",
+    "titre": "Dotations d'exploitation aux provisions pour dépréciation des créances de l'actif circulant"
+  },
+  {
+    "code": "6198",
+    "titre": "Dotations d'exploitation des exercices antérieurs"
+  },
+  {
+    "code": "61981",
+    "titre": "Dotations d'exploitation aux amortissements des exercices antérieurs"
+  },
+  {
+    "code": "61984",
+    "titre": "Dotations d'exploitation aux provisions des exercices antérieurs"
+  },
+  {
+    "code": "63",
+    "titre": "Charges financiéres"
+  },
+  {
+    "code": "631",
+    "titre": "Charges d'intérêt"
+  },
+  {
+    "code": "6311",
+    "titre": "Intérêts des emprunts et dettes"
+  },
+  {
+    "code": "63111",
+    "titre": "Intérêts des emprunts"
+  },
+  {
+    "code": "63113",
+    "titre": "Intérêts des dettes rattachées à des participations"
+  },
+  {
+    "code": "63114",
+    "titre": "Intérêts des comptes courants et dépots créditeurs"
+  },
+  {
+    "code": "63115",
+    "titre": "Intérêts bancaires et sur opérations de financement"
+  },
+  {
+    "code": "63118",
+    "titre": "Autres intérêts des emprunts et dettes"
+  },
+  {
+    "code": "6318",
+    "titre": "Charges d'intérêt des exercices antérieurs"
+  },
+  {
+    "code": "633",
+    "titre": "Pertes de change"
+  },
+  {
+    "code": "6331",
+    "titre": "Pertes de change propres à l'exercice"
+  },
+  {
+    "code": "6338",
+    "titre": "Pertes de change des exercices antérieurs"
+  },
+  {
+    "code": "638",
+    "titre": "Autres charges financiéres"
+  },
+  {
+    "code": "6382",
+    "titre": "Pertes sur créances liées à des participations"
+  },
+  {
+    "code": "6385",
+    "titre": "Charges nettes sur cessions de titres et valeurs de placement"
+  },
+  {
+    "code": "6386",
+    "titre": "Escomptes accordés"
+  },
+  {
+    "code": "6388",
+    "titre": "Autres charges financiéres des exercices antérieurs"
+  },
+  {
+    "code": "639",
+    "titre": "Dotations financiéres"
+  },
+  {
+    "code": "6391",
+    "titre": "Dotations aux amortissements des primes de remboursement des obligations"
+  },
+  {
+    "code": "6392",
+    "titre": "Dotations aux provisions pour dépréciation des immobilisations financiéres"
+  },
+  {
+    "code": "6393",
+    "titre": "Dotations aux provisions pour risques et charges financiéres"
+  },
+  {
+    "code": "6394",
+    "titre": "Dotations aux provisions pour dépréciation des titres et valeurs de placement"
+  },
+  {
+    "code": "6396",
+    "titre": "Dotations aux provisions pour dépréciation des comptes de trésorerie"
+  },
+  {
+    "code": "6398",
+    "titre": "Dotations financiéres des exercices antérieurs"
+  },
+  {
+    "code": "65",
+    "titre": "Charges non courantes"
+  },
+  {
+    "code": "651",
+    "titre": "Valeurs nettes d'amortissements des immobilisations cédées"
+  },
+  {
+    "code": "6512",
+    "titre": "Valeurs nettes d'amortissement des immobilisations incorporelles cédées"
+  },
+  {
+    "code": "6513",
+    "titre": "Valeurs nettes d'amortissement des immobilisations corporelles cédées"
+  },
+  {
+    "code": "6514",
+    "titre": "Valeurs nettes d'amortissement des immobilisations financiéres cédées"
+  },
+  {
+    "code": "6518",
+    "titre": "Valeurs nettes d'amortissement des immobilisations cédées des exercices antérieurs"
+  },
+  {
+    "code": "656",
+    "titre": "Subventions accordées"
+  },
+  {
+    "code": "6561",
+    "titre": "Subventions accordées de l'exercice"
+  },
+  {
+    "code": "6568",
+    "titre": "Subventions accordées des exercices antérieurs"
+  },
+  {
+    "code": "658",
+    "titre": "Autres charges non courantes"
+  },
+  {
+    "code": "6581",
+    "titre": "pénalités sur marchés et dédits"
+  },
+  {
+    "code": "65811",
+    "titre": "pénalités sur marchés"
+  },
+  {
+    "code": "65812",
+    "titre": "Dédits"
+  },
+  {
+    "code": "6582",
+    "titre": "Rappels d'Impôts (autres qu'Impôts sur les résultats)"
+  },
+  {
+    "code": "6583",
+    "titre": "pénalités et amendes fiscales ou pénales"
+  },
+  {
+    "code": "65831",
+    "titre": "pénalités et amendes fiscales ou pénales"
+  },
+  {
+    "code": "65833",
+    "titre": "pénalités et amendes pénales"
+  },
+  {
+    "code": "6585",
+    "titre": "créances devenues irrécouvrables"
+  },
+  {
+    "code": "6586",
+    "titre": "Dons, libéralités et lots"
+  },
+  {
+    "code": "65861",
+    "titre": "Dons"
+  },
+  {
+    "code": "65862",
+    "titre": "Libéralités"
+  },  
+  {
+    "code": "65863",
+    "titre": "Lots"
+  },
+  {
+    "code": "6588",
+    "titre": "Autres charges non courantes des exercices antérieurs"
+  },
+  {
+    "code": "659",
+    "titre": "Dotations pour courantes"
+  },
+  {
+    "code": "6591",
+    "titre": "Dotations aux amortissements exceptionnels des immobilisations"
+  },
+  {
+    "code": "65911",
+    "titre": "Dotations aux amortissements exceptionnels de l'immobilisation en non valeurs"
+  },
+  {
+    "code": "65912",
+    "titre": "Dotations aux amortissements exceptionnels des immobilisations incorporelles"
+  },
+  {
+    "code": "65913",
+    "titre": "Dotations aux amortissements exceptionnels des immobilisations corporelles"
+  },
+  {
+    "code": "6594",
+    "titre": "Dotations non courantes aux provisions réglementées"
+  },
+  {
+    "code": "65941",
+    "titre": "Dotations non courantes aux amortissements dérogatoires"
+  },
+  {
+    "code": "65942",
+    "titre": "Dotations non courantes pour plus-values en instance d'imposition"
+  },
+  {
+    "code": "65944",
+    "titre": "Dotations non courantes pour investissements"
+  },
+  {
+    "code": "65945",
+    "titre": "Dotations non courantes pour reconstitution de gisements"
+  },
+  {
+    "code": "65946",
+    "titre": "Dotations non courantes pour acquisition et construction de logement"
+  },
+  {
+    "code": "6595",
+    "titre": "Dotations non courantes aux provisions pour risques et charges"
+  },
+  {
+    "code": "65955",
+    "titre": "Dotations non courantes aux provisions pour risques et charges durables"
+  },
+  {
+    "code": "65957",
+    "titre": "Dotations non courantes aux provisions pour risques et charges momentanés"
+  },
+  {
+    "code": "6596",
+    "titre": "Dotations non courantes aux provisions pour dépréciation"
+  },
+  {
+    "code": "65962",
+    "titre": "Dotations non courantes aux provisions pour dépréciation de l'actif immobilisé"
+  },
+  {
+    "code": "65963",
+    "titre": "Dotations non courantes aux provisions pour dépréciation de l'actif circulant"
+  },
+  {
+    "code": "6598",
+    "titre": "Dotations non courantes des exercices antérieurs"
+  },
+  {
+    "code": "67",
+    "titre": "Impôts sur les résultats"
+  },
+  {
+    "code": "670",
+    "titre": "Impôts sur les résultats"
+  },
+  {
+    "code": "6701",
+    "titre": "Impôts sur les bénéfices"
+  },
+  {
+    "code": "6705",
+    "titre": "Imposition minimale annuelle des sociétés"
+  },  
+  {
+    "code": "6708",
+    "titre": "Rappels et dégrèvements des Impôts sur les résultats"
+  },
+  {
+    "code": "7",
+    "titre": "Comptes de produits"
+  },
+  {
+    "code": "71",
+    "titre": "Produits d'exploitation"
+  },
+  {
+    "code": "711",
+    "titre": "Ventes de marchandises"
+  },
+  {
+    "code": "7111",
+    "titre": "Ventes de marchandises au Maroc"
+  },
+  {
+    "code": "7113",
+    "titre": "Ventes de marchandises à l'étranger"
+  },
+  {
+    "code": "7118",
+    "titre": "Ventes de marchandises des exercices antérieurs"
+  },
+  {
+    "code": "7119",
+    "titre": "Rabais, remises et ristournes accordés par l'entreprise"
+  },  
+  {
+    "code": "712",
+    "titre": "Ventes de biens et services produits"
+  },
+  {
+    "code": "7121",
+    "titre": "Ventes de biens et services produits au Maroc"
+  },
+  {
+    "code": "71211",
+    "titre": "Ventes de produits finis"
+  },
+  {
+    "code": "71212",
+    "titre": "Ventes de produits intermédiaires"
+  },
+  {
+    "code": "71217",
+    "titre": "Ventes de produits résiduels"
+  },
+  {
+    "code": "7122",
+    "titre": "Ventes de biens produits à l'étranger"
+  },
+  {
+    "code": "71221",
+    "titre": "Ventes de produits finis"
+  },
+  {
+    "code": "71222",
+    "titre": "Ventes de produits intermédiaires"
+  },
+  {
+    "code": "7124",
+    "titre": "Ventes de services produits au Maroc"
+  },
+  {
+    "code": "71241",
+    "titre": "Travaux"
+  },
+  {
+    "code": "71242",
+    "titre": "Etudes"
+  },
+  {
+    "code": "71243",
+    "titre": "Prestations de services"
+  },
+  {
+    "code": "7125",
+    "titre": "Ventes de services produits à l'étranger"
+  },
+  {
+    "code": "71251",
+    "titre": "Travaux"
+  },
+  {
+    "code": "71252",
+    "titre": "Etudes"
+  },
+  {
+    "code": "71253",
+    "titre": "Prestations de services"
+  },
+  {
+    "code": "7126",
+    "titre": "Redevances pour brevets  marques  droits et valeurs similaires"
+  },
+  {
+    "code": "7127",
+    "titre": "Ventes de produits accessoires"
+  },
+  {
+    "code": "71271",
+    "titre": "Locations diverses reçues"
+  },
+  {
+    "code": "71272",
+    "titre": "Commissions et courtages reçus"
+  },
+  {
+    "code": "71273",
+    "titre": "Produits de services exploités dans l'intéret du personnel"
+  },
+  {
+    "code": "71275",
+    "titre": "Bonis sur reprises d'emballages consignés"
+  },
+  {
+    "code": "71276",
+    "titre": "Ports et frais accessoires"
+  },
+  {
+    "code": "71278",
+    "titre": "Autres ventes de produits accessoires"
+  },
+  {
+    "code": "7128",
+    "titre": "Ventes de biens set services produits des exercices antérieurs"
+  },
+  {
+    "code": "7129",
+    "titre": "Rabais, remises et ristournes accordés par l'entreprise"
+  },
+  {
+    "code": "71291",
+    "titre": "Rabais, remises et ristournes accordés sur ventes au Maroc des biens produits"
+  },
+  {
+    "code": "71292",
+    "titre": "Rabais, remises et ristournes accordés sur ventes à l'étranger des biens produits"
+  },
+  {
+    "code": "71294",
+    "titre": "Rabais, remises et ristournes accordés sur ventes au Maroc des services produits"
+  },
+  {
+    "code": "71295",
+    "titre": "Rabais, remises et ristournes accordés sur ventes à l'étranger des services produits"
+  },
+  {
+    "code": "71298",
+    "titre": "Rabais, remises et ristournes accordés sur ventes des biens et services produits des exercices antérieurs"
+  },  
+  {
+    "code": "713",
+    "titre": "Variations des stocks des produits"
+  },
+  {
+    "code": "7131",
+    "titre": "Variations des stocks des produits en cours"
+  },
+  {
+    "code": "71311",
+    "titre": "Variations des stocks de biens produits en cours"
+  },
+  {
+    "code": "71312",
+    "titre": "Variations des stocks de produits intermédiaires en cours"
+  },
+  {
+    "code": "71317",
+    "titre": "Variations des stocks de produits résiduels en cours"
+  },
+  {
+    "code": "7132",
+    "titre": "Variations des stocks de biens produits"
+  },
+  {
+    "code": "71321",
+    "titre": "Variations des stocks de produits finis"
+  },
+  {
+    "code": "71322",
+    "titre": "Variations des stocks de produits intermédiaires"
+  },
+  {
+    "code": "71327",
+    "titre": "Variations des stocks de produits résiduels"
+  },
+  {
+    "code": "7134",
+    "titre": "Variations des stocks de services en cours"
+  },
+  {
+    "code": "71341",
+    "titre": "Variations des stocks de travaux"
+  },
+  {
+    "code": "71342",
+    "titre": "Variations des stocks d'études en cours"
+  },
+  {
+    "code": "71343",
+    "titre": "Variations des stocks de prestations en cours"
+  },
+  {
+    "code": "714",
+    "titre": "Immobilisations produites par l'entreprise pour elle-même    "
+  },
+  {
+    "code": "7141",
+    "titre": "Immobilisations en non-valeurs produites"
+  },
+  {
+    "code": "7142",
+    "titre": "Immobilisations incorporelles produites"
+  },
+  {
+    "code": "7143",
+    "titre": "Immobilisations corporelles produites"
+  },
+  {
+    "code": "7148",
+    "titre": "Immobilisations produites des exercices antérieurs"
+  },
+  {
+    "code": "716",
+    "titre": "Subventions d'exploitation"
+  },
+  {
+    "code": "7161",
+    "titre": "Subventions d'exploitation reçues de l'exercice"
+  },
+  {
+    "code": "7168",
+    "titre": "Subventions d'exploitation reçues des exercices antérieurs"
+  },
+  {
+    "code": "718",
+    "titre": "Autres produits d'exploitation"
+  },
+  {
+    "code": "7181",
+    "titre": "Jetons de présence reçus"
+  },
+  {
+    "code": "7182",
+    "titre": "Revenus des immeubles non affectés à l'exploitation"
+  },  
+  {
+    "code": "7185",
+    "titre": "Profits sur opérations faites en commun"
+  },
+  {
+    "code": "7186",
+    "titre": "Transferts de profits sur opérations faites en commun"
+  },
+  {
+    "code": "7188",
+    "titre": "Autres produits d'exploitation des exercices antérieurs"
+  },  
+  {
+    "code": "719",
+    "titre": "Reprises d'exploitation : Transfert de change"
+  },
+  {
+    "code": "7191",
+    "titre": "Reprises sur amortissements de l'immobilisation en non-valeur"
+  },
+  {
+    "code": "7192",
+    "titre": "Reprises sur amortissements des immobilisations incorporelles"
+  },
+  {
+    "code": "7193",
+    "titre": "Reprises sur amortissements des immobilisations corporelles"
+  },
+  {
+    "code": "7194",
+    "titre": "Reprises sur provisions pour dépréciation des immobilisations"
+  },
+  {
+    "code": "7195",
+    "titre": "Reprises sur provisions pour risques et charges"
+  },
+  {
+    "code": "7196",
+    "titre": "Reprises sur provisions pour dépréciation de l'actif circulant"
+  },  
+  {
+    "code": "7197",
+    "titre": "Transfert de charges d'exploitation"
+  },
+  {
+    "code": "71971",
+    "titre": "Transfert de charges d'exploitation - achats de marchandises"
+  },
+  {
+    "code": "71972",
+    "titre": "Transfert de charges d'exploitation - achats consommés de matiéres et fournitures"
+  },
+  {
+    "code": "71973",
+    "titre": "Transfert de charges d'exploitation - autres charges externes"
+  },
+  {
+    "code": "71975",
+    "titre": "Transfert de charges d'exploitation - Impots et taxes"
+  },
+  {
+    "code": "71976",
+    "titre": "Transfert de charges d'exploitation - charges de personnel"
+  },
+  {
+    "code": "71978",
+    "titre": "Transfert de charges d'exploitation - autres charges d'exploitation"
+  },
+  {
+    "code": "7198",
+    "titre": "Reprises sur amortissements et provisions des exercices antérieurs"
+  },
+  {
+    "code": "71981",
+    "titre": "Reprises sur amortissements des exercices antérieurs"
+  },
+  {
+    "code": "71984",
+    "titre": "Reprises sur Provisions des exercices antérieurs"
+  },
+  {
+    "code": "73",
+    "titre": "Produits financiers"
+  },
+  {
+    "code": "732",
+    "titre": "Produits des titres de participation et des autres titres immobilisés"
+  },
+  {
+    "code": "7321",
+    "titre": "Revenus des titres de participation"
+  },
+  {
+    "code": "7325",
+    "titre": "Revenus des titres immobilisés"
+  },
+  {
+    "code": "7328",
+    "titre": "Produits des titres de participation et des autres titres immobilisés des exercices antérieurs"
+  },
+  {
+    "code": "733",
+    "titre": "Gains de change"
+  },
+  {
+    "code": "7331",
+    "titre": "Gains de change propres à l'exercice"
+  },
+  {
+    "code": "7338",
+    "titre": "Gains de change des exercices antérieurs"
+  },
+  {
+    "code": "738",
+    "titre": "Intérêts et autres produits financiers"
+  },
+  {
+    "code": "7381",
+    "titre": "Intérêts et produits assimilés"
+  },
+  {
+    "code": "73811",
+    "titre": "Intérêts des prêts"
+  },
+  {
+    "code": "73813",
+    "titre": "Revenus des autres créances financières"
+  },
+  {
+    "code": "7383",
+    "titre": "Revenus des créances rattachées à des participations"
+  },  
+  {
+    "code": "7384",
+    "titre": "Revenus des titres et valeurs de placement"
+  },
+  {
+    "code": "7385",
+    "titre": "Produits nets sur cessions de titres et valeurs de placement"
+  },
+  {
+    "code": "7386",
+    "titre": "Escomptes obtenus"
+  },
+  {
+    "code": "7388",
+    "titre": "Intérêts et autres produits financiers des exercices antérieurs"
+  },
+  {
+    "code": "739",
+    "titre": "Reprises financières : Transfert de change"
+  },
+  {
+    "code": "7391",
+    "titre": "Reprises sur amortissement des primes de remboursement des obligations"
+  },
+  {
+    "code": "7392",
+    "titre": "Reprises sur provisions pour dépréciation des immobilisations financières"
+  },
+  {
+    "code": "7393",
+    "titre": "Reprises sur provisions pour risques et charges financières"
+  },
+  {
+    "code": "7394",
+    "titre": "Reprises sur provisions pour dépréciation des titres et valeurs de placement"
+  },
+  {
+    "code": "7396",
+    "titre": "Reprises sur provisions pour dépréciation des comptes de trésorerie"
+  },
+  {
+    "code": "7397",
+    "titre": "Transfert de charges financières"
+  },  
+  {
+    "code": "73971",
+    "titre": "Transferts - charges d'intérêts"
+  },
+  {
+    "code": "73973",
+    "titre": "Transferts - pertes de change"
+  },
+  {
+    "code": "73978",
+    "titre": "Transferts - autres charges financières"
+  },
+  {
+    "code": "7398",
+    "titre": "Reprises sur dotations financières des exercices antérieurs"
+  },  
+  {
+    "code": "75",
+    "titre": "Produits non courants"
+  },
+  {
+    "code": "751",
+    "titre": "Produits des cessions des immobilisations"
+  },
+  {
+    "code": "7512",
+    "titre": "Produits des cessions des immobilisations incorporelles"
+  },
+  {
+    "code": "7513",
+    "titre": "Produits des cessions des immobilisations corporelles"
+  },
+  {
+    "code": "7514",
+    "titre": "Produits des cessions des immobilisations financières (droits de propriété)"
+  },
+  {
+    "code": "7518",
+    "titre": "Produits des cessions des immobilisations des exercices antérieurs"
+  },
+  {
+    "code": "756",
+    "titre": "Subventions d'équilibre"
+  },
+  {
+    "code": "7561",
+    "titre": "Subventions d'équilibre reçues de l'exercice"
+  },
+  {
+    "code": "7568",
+    "titre": "Subventions d'équilibre reçues des exercices antérieurs"
+  },  
+  {
+    "code": "757",
+    "titre": "Reprises sur subventions d'investissement"
+  },
+  {
+    "code": "7577",
+    "titre": "Reprises sur subventions d'investissement de l'exercice"
+  },
+  {
+    "code": "7578",
+    "titre": "Reprises sur subventions d'investissement des exercices antérieurs"
+  },
+  {
+    "code": "758",
+    "titre": "Autres produits non courants"
+  },
+  {
+    "code": "7581",
+    "titre": "pénalités et dédits reçus"
+  },
+  {
+    "code": "75811",
+    "titre": "pénalités reçus sur marché"
+  },
+  {
+    "code": "75812",
+    "titre": "Dédits reçus"
+  },
+  {
+    "code": "7582",
+    "titre": "Dégrèvements d'Impôts (autres qu'Impôts sur résultat)"
+  },
+  {
+    "code": "7585",
+    "titre": "Rentrées sur créances soldées"
+  },
+  {
+    "code": "7586",
+    "titre": "Dons, libéralités et lots reçus"
+  },
+  {
+    "code": "75861",
+    "titre": "Dons"
+  },
+  {
+    "code": "75862",
+    "titre": "Libéralités"
+  },  
+  {
+    "code": "75863",
+    "titre": "Lots"
+  },
+  {
+    "code": "7588",
+    "titre": "Autres produits non courants des exercices antérieurs"
+  },
+  {
+    "code": "759",
+    "titre": "Reprises non courantes : Transfert de change"
+  },
+  {
+    "code": "7591",
+    "titre": "Reprises non courantes sur amortissements exceptionnelles des immobilisations"
+  },
+  {
+    "code": "75911",
+    "titre": "Reprises non courantes sur amortissements exceptionnelles des immobilisations en non-valeurs"
+  },
+  {
+    "code": "75912",
+    "titre": "Reprises non courantes sur amortissements exceptionnelles des immobilisations incorporelles"
+  },
+  {
+    "code": "75913",
+    "titre": "Reprises non courantes sur amortissements exceptionnelles des immobilisations corporelles"
+  },
+  {
+    "code": "7594",
+    "titre": "Reprises non courantes sur provisions réglementées"
+  },
+  {
+    "code": "75941",
+    "titre": "Reprises sur amortissements dérogatoires"
+  },
+  {
+    "code": "75942",
+    "titre": "Reprises sur plus values en instance d'imposition"
+  },
+  {
+    "code": "75944",
+    "titre": "Reprises sur provisions pour investissements"
+  },
+  {
+    "code": "75945",
+    "titre": "Reprises sur provisions pour reconstitution de gisements"
+  },
+  {
+    "code": "75946",
+    "titre": "Reprises sur provisions pour acquisition et construction de logements"
+  },
+  {
+    "code": "7595",
+    "titre": "Reprises non courantes sur provisions pour risques et charges"
+  },
+  {
+    "code": "75955",
+    "titre": "Reprises non courantes sur provisions pour risques et charges durables"
+  },
+  {
+    "code": "75957",
+    "titre": "Reprises non courantes sur provisions pour risques et charges momentanés"
+  },
+  {
+    "code": "7596",
+    "titre": "Reprises non courantes sur provisions pour dépréciation"
+  },
+  {
+    "code": "75962",
+    "titre": "Reprises non courantes sur provisions pour dépréciation de l'actif immobilisé"
+  },
+  {
+    "code": "75963",
+    "titre": "Reprises non courantes sur provisions pour dépréciation de l'actif circulant"
+  },
+  {
+    "code": "7597",
+    "titre": "Transfert de charges non courantes"
+  },
+  {
+    "code": "7598",
+    "titre": "Reprises non courantes des exercices antérieurs"
+  },
+  {
+    "code": "8",
+    "titre": "Comptes de résultats"
+  },
+  {
+    "code": "81",
+    "titre": "Résultat s'exploitation"
+  },
+  {
+    "code": "810",
+    "titre": "Résultat s'exploitation"
+  },
+  {
+    "code": "811",
+    "titre": "Marge brute"
+  },
+  {
+    "code": "814",
+    "titre": "Valeur ajoutée"
+  },
+  {
+    "code": "817",
+    "titre": "Excédent brut s'exploitation"
+  },
+  {
+    "code": "8171",
+    "titre": "Excédent brut s'exploitation (créditeur)"
+  },
+  {
+    "code": "8179",
+    "titre": "Insuffusance brute d'exploitation (débiteur)"
+  },
+  {
+    "code": "83",
+    "titre": "Résultat financier"
+  },
+  {
+    "code": "84",
+    "titre": "Résultat courant"
+  },
+  {
+    "code": "85",
+    "titre": "Résultat non courant"
+  },
+  {
+    "code": "86",
+    "titre": "Résultat avant impôt"
+  },
+  {
+    "code": "88",
+    "titre": "Résultat après impôt"
+  },
+  
+  {
+    "code": "9",
+    "titre": "Comptes analytiques"
+  },
+  {
+    "code": "90",
+    "titre": "Comptes de produits et charges réfléchis"
+  },
+  {
+    "code": "903",
+    "titre": "Stocks et provisions pour dépréciation de stocks réfléchis"
+  },
+  {
+    "code": "9031",
+    "titre": "Stocks réfléchis"
+  },
+  {
+    "code": "9039",
+    "titre": "Provisions pour dépréciation de stocks réfléchis"
+  },
+  {
+    "code": "906",
+    "titre": "Charges réfléchies"
+  },
+  {
+    "code": "9061",
+    "titre": "Charges d'exploitation réfléchies"
+  },
+  {
+    "code": "9063",
+    "titre": "Charges financières réfléchies"
+  },
+  {
+    "code": "9065",
+    "titre": "Charges non courantes réfléchies"
+  },
+  
+  {
+    "code": "9067",
+    "titre": "Impôts sur les résultats réfléchis"
+  },
+  {
+    "code": "907",
+    "titre": "Produits réfléchis"
+  },
+  {
+    "code": "9071",
+    "titre": "Produits d'exploitation réfléchis"
+  },
+  {
+    "code": "9073",
+    "titre": "Produits financiers réfléchis"
+  },
+  {
+    "code": "9075",
+    "titre": "Produits non courants réfléchis"
+  },
+  {
+    "code": "908",
+    "titre": "Résultats réfléchis"
+  },
+  {
+    "code": "9081",
+    "titre": "Résultat d'exploitation réfléchi"
+  },  
+  {
+    "code": "9083",
+    "titre": "Résultat financier réfléchis"
+  },
+  {
+    "code": "9084",
+    "titre": "Résultat courant réfléchis"
+  },
+  {
+    "code": "9085",
+    "titre": "Résultat non courant réfléchi"
+  },
+  {
+    "code": "9086",
+    "titre": "Résultat avant impôt réfléchi"
+  },
+  {
+    "code": "9088",
+    "titre": "Résultat après impôts réfléchi"
+  },  
+  {
+    "code": "91",
+    "titre": "Comptes de reclassement et d'analyse (ouverts et attribués selon les nécéssité de l'entreprise)"
+  },
+  {
+    "code": "92",
+    "titre": "Sections Analytiques"
+  },
+  {
+    "code": "921",
+    "titre": "Sections générales"
+  },
+  {
+    "code": "9211",
+    "titre": "Section A"
+  },
+  {
+    "code": "9212",
+    "titre": "Section B"
+  },
+  {
+    "code": "923",
+    "titre": "Sections d'approvisionnement"
+  },
+  {
+    "code": "9231",
+    "titre": "Section A"
+  },
+  {
+    "code": "9232",
+    "titre": "Section B"
+  },
+  {
+    "code": "925",
+    "titre": "Sections de production"
+  },
+  {
+    "code": "9251",
+    "titre": "Section A"
+  },
+  {
+    "code": "9252",
+    "titre": "Section B"
+  },
+  {
+    "code": "927",
+    "titre": "Sections de distribution"
+  },
+  {
+    "code": "9271",
+    "titre": "Section A"
+  },
+  {
+    "code": "9272",
+    "titre": "Section B"
+  },
+  {
+    "code": "928",
+    "titre": "Autres sections analytiques"
+  },
+  {
+    "code": "9281",
+    "titre": "Section A"
+  },
+  {
+    "code": "9282",
+    "titre": "Section B"
+  },
+  {
+    "code": "93",
+    "titre": "Couts d'achat ou de production"
+  },
+  {
+    "code": "933",
+    "titre": "Couts d'achat"
+  },
+  {
+    "code": "9331",
+    "titre": "Couts d'achat de marchandises"
+  },
+  {
+    "code": "9335",
+    "titre": "Couts d'achat de matiéres et de fournitures"
+  },
+  {
+    "code": "935",
+    "titre": "Couts de production"
+  },
+  {
+    "code": "9351",
+    "titre": "Couts de production des produits (Groupe A)"
+  },
+  {
+    "code": "9352",
+    "titre": "Couts de production des produits (Groupe B)"
+  },
+  {
+    "code": "938",
+    "titre": "Autres couts d'achat ou de production"
+  },
+  {
+    "code": "9381",
+    "titre": "Couts de production des immobilisations"
+  },
+  {
+    "code": "94",
+    "titre": "Inventaire permanent des stocks"
+  },
+  {
+    "code": "941",
+    "titre": "Inventaire permanent des marchandises"
+  },
+  {
+    "code": "9411",
+    "titre": "Marchandises (Groupe A)"
+  },
+  {
+    "code": "9412",
+    "titre": "Marchandises (Groupe B)"
+  },
+  {
+    "code": "9416",
+    "titre": "Marchandises en cours de route"
+  },
+  {
+    "code": "9418",
+    "titre": "Autres marchandises"
+  },
+  {
+    "code": "942",
+    "titre": "Inventaire permanent des matiéres et fournitures consommables"
+  },
+  {
+    "code": "9421",
+    "titre": "matiéres premières"
+  },
+  {
+    "code": "9422",
+    "titre": "matiéres et fournitures consommables"
+  },
+  {
+    "code": "9423",
+    "titre": "Emballages"
+  },
+  {
+    "code": "9426",
+    "titre": "matiéres et fournitures consommables en cours de route"
+  },
+  {
+    "code": "9428",
+    "titre": "Autres matiéres et fournitures consommables"
+  },
+  {
+    "code": "943",
+    "titre": "Inventaire permanent des produits en cours"
+  },
+  {
+    "code": "9431",
+    "titre": "Biens en cours"
+  },
+  {
+    "code": "9434",
+    "titre": "Services en cours"
+  },
+  {
+    "code": "9438",
+    "titre": "Autres produits en cours"
+  },
+  {
+    "code": "944",
+    "titre": "Inventaire permanent des produits intérmédiaires et produits résiduels"
+  },
+  {
+    "code": "9441",
+    "titre": "Produits intérmédiaires"
+  },
+  {
+    "code": "9445",
+    "titre": "Produits résiduels"
+  },
+  {
+    "code": "9448",
+    "titre": "Autres produits intermédiaires et produits résiduels"
+  },
+  {
+    "code": "945",
+    "titre": "Inventaire permanent des produits finis"
+  },
+  {
+    "code": "9451",
+    "titre": "Produits finis (Groupe A)"
+  },
+  {
+    "code": "9452",
+    "titre": "Produits finis (Groupe B)"
+  },
+  {
+    "code": "9456",
+    "titre": "Produits finis en cours de route"
+  },
+  {
+    "code": "9458",
+    "titre": "Autres produits finis"
+  },
+  {
+    "code": "949",
+    "titre": "Provisions pour dépréciation de stocks"
+  },
+  {
+    "code": "9491",
+    "titre": "Provisions pour dépréciation des Marchandises"
+  },
+  {
+    "code": "9492",
+    "titre": "Provisions pour dépréciation des matières et fournitures consommables"
+  },
+  {
+    "code": "9493",
+    "titre": "Provisions pour dépréciation des produits en cours"
+  },
+  {
+    "code": "9494",
+    "titre": "Provisions pour dépréciation des produits intermédiaires et produits résiduels"
+  },
+  {
+    "code": "9495",
+    "titre": "Provisions pour dépréciation des produits finis"
+  },  
+  {
+    "code": "95",
+    "titre": "Couts de revient"
+  },
+  {
+    "code": "953",
+    "titre": "Couts de revient des marchandises"
+  },
+  {
+    "code": "9531",
+    "titre": "couts de revient des marchandises (Groupe A)"
+  },
+  {
+    "code": "9532",
+    "titre": "Couts de revient des marchandises (Groupe B)"
+  },
+  {
+    "code": "955",
+    "titre": "Couts de revient des produits"
+  },
+  {
+    "code": "9551",
+    "titre": "Couts de revient des produits (Groupe A)"
+  },
+  {
+    "code": "9552",
+    "titre": "Couts de revient des produits (Groupe B)"
+  },
+  {
+    "code": "958",
+    "titre": "Autres couts de revient"
+  },
+  {
+    "code": "9581",
+    "titre": "Couts de revient (Groupe A)"
+  },
+  {
+    "code": "9582",
+    "titre": "Couts de revient (Groupe B)"
+  },
+  {
+    "code": "96",
+    "titre": "Ecarts sur couts de revient préétablis"
+  },
+  {
+    "code": "962",
+    "titre": "Ecarts sur sections"
+  },
+  {
+    "code": "9621",
+    "titre": "Ecarts sur quantités"
+  },
+  {
+    "code": "9622",
+    "titre": "Ecarts sur couts"
+  },
+  {
+    "code": "964",
+    "titre": "Ecarts sur inventaires permanent des stocks"
+  },
+  {
+    "code": "9641",
+    "titre": "Ecarts sur quantités"
+  },
+  {
+    "code": "9642",
+    "titre": "Ecarts sur couts"
+  },
+  {
+    "code": "97",
+    "titre": "Différence d'incorporation"
+  },
+  {
+    "code": "971",
+    "titre": "Charges non incorporables"
+  },
+  {
+    "code": "972",
+    "titre": "Charges supplétives incorporées"
+  },
+  {
+    "code": "973",
+    "titre": "Produits non incorporés"
+  },
+  {
+    "code": "974",
+    "titre": "Différences sur charges incorporables"
+  },
+  {
+    "code": "975",
+    "titre": "Différences sur produits incorporables"
+  },
+  {
+    "code": "976",
+    "titre": "Différences d'inventaire"
+  },
+  {
+    "code": "9761",
+    "titre": "Différences d'inventaire sur marchandises"
+  },
+  {
+    "code": "9762",
+    "titre": "Différences d'inventaire sur matières et fournitures consommables"
+  },
+  {
+    "code": "9763",
+    "titre": "Différences d'inventaire sur produits en cours"
+  },  
+  {
+    "code": "9764",
+    "titre": "Différences d'inventaire sur produits intermédiaires et produits résiduels"
+  },
+  {
+    "code": "9765",
+    "titre": "Différences d'inventaire sur produits finis"
+  },
+  {
+    "code": "977",
+    "titre": "Différences sur niveau d'activité"
+  },
+  {
+    "code": "978",
+    "titre": "Autres différences d'incorporation"
+  },
+  {
+    "code": "98",
+    "titre": "Résultats analytiques"
+  },
+  {
+    "code": "981",
+    "titre": "Résultats analytiques sur marchandises"
+  },
+  {
+    "code": "9811",
+    "titre": "Résultats analytiques sur marchandises (Groupe A)"
+  },
+  {
+    "code": "9812",
+    "titre": "Résultats analytiques sur marchandises (Groupe B)"
+  },
+  {
+    "code": "982",
+    "titre": "Résultats analytiques sur biens produits"
+  },
+  {
+    "code": "9821",
+    "titre": "Résultats analytiques sur biens produits (Groupe A)"
+  },
+  {
+    "code": "9822",
+    "titre": "Résultats analytiques sur biens produits (Groupe A)"
+  },
+  {
+    "code": "983",
+    "titre": "Résultats analytiques sur services produits"
+  },
+  {
+    "code": "9831",
+    "titre": "Résultats analytiques sur services produits (Groupe A)"
+  },
+  {
+    "code": "9832",
+    "titre": "Résultats analytiques sur services produits (Groupe B)"
+  },
+  {
+    "code": "986",
+    "titre": "Report des écarts sur coûts préétablis"
+  },
+  {
+    "code": "987",
+    "titre": "Report des différences d'incorporation"
+  },
+  {
+    "code": "99",
+    "titre": "Comptes de liaisons internes"
+  },
+  {
+    "code": "991",
+    "titre": "Liaisons internes propres à un même établissement"
+  },
+  {
+    "code": "995",
+    "titre": "Cessions à d'autres établissements"
+  },
+  {
+    "code": "9951",
+    "titre": "Cessions fournies à d'autres établissements"
+  },
+  {
+    "code": "9955",
+    "titre": "Cessions reçues d'autres établissements"
+  },
+  {
+    "code": "0",
+    "titre": "Comptes spéciaux"
+  },
+  {
+    "code": "01",
+    "titre": "Bilan d'ouverture"
+  },
+  {
+    "code": "011",
+    "titre": "Réoverture des comptes de financement permanent"
+  },
+  {
+    "code": "0111",
+    "titre": "Réouverture des comptes de capitaux propres"
+  },
+  {
+    "code": "01111",
+    "titre": "Réouverture des comptes de capital social ou permanent"
+  },
+  {
+    "code": "01112",
+    "titre": "Réouverture des comptes des primes d'émission  de fusion  d'apport"
+  },
+  {
+    "code": "01113",
+    "titre": "Réouverture des comptes des écarts de réevaluation"
+  },
+  {
+    "code": "01114",
+    "titre": "Réouverture des comptes de réserve légale"
+  },
+  {
+    "code": "01115",
+    "titre": "Réouverture des comptes des autres réserves"
+  },
+  {
+    "code": "01116",
+    "titre": "Réouverture des comptes du report à nouveau"
+  },
+  {
+    "code": "01118",
+    "titre": "Réouverture des comptes des résultats nets en instance d'affectation"
+  },
+  {
+    "code": "01119",
+    "titre": "Réouverture des comptes du résultat net de l'exercice"
+  },
+  {
+    "code": "0113",
+    "titre": "Réouverture des comptes de capitaux propres assimilés"
+  },
+  {
+    "code": "01131",
+    "titre": "Réouverture des comptes de subventions d'investissement"
+  },
+  {
+    "code": "01135",
+    "titre": "Réouverture des comptes de provisions réglementées"
+  },
+  {
+    "code": "0114",
+    "titre": "Réouverture des comptes des dettes de financement"
+  },
+  {
+    "code": "01141",
+    "titre": "Réouverture des comptes d'emprunts obligataires"
+  },
+  {
+    "code": "01148",
+    "titre": "Réouverture des comptes des autres dettes de financeemnt"
+  },
+  {
+    "code": "0115",
+    "titre": "Réouverture des comptes de provisions durables pour risques et charges"
+  },
+  {
+    "code": "01151",
+    "titre": "Réouverture des comptes de provisiosn pour risques"
+  },
+  {
+    "code": "01155",
+    "titre": "Réouverture des comptes de provisiosn pour charges"
+  },
+  {
+    "code": "0116",
+    "titre": "Réouverture des comptes de liaison des établissements et succursales"
+  },
+  {
+    "code": "0117",
+    "titre": "Réouverture des comptes d'écarts de convesion passif"
+  },
+  {
+    "code": "01171",
+    "titre": "Réouverture des comptes d'écarts sur créances immobilisées"
+  },
+  {
+    "code": "01172",
+    "titre": "Réouverture des comptes d'écarts sur dettes de financement"
+  },
+  {
+    "code": "012",
+    "titre": "Réouverture des comptes d'actif immobilisé"
+  },
+  {
+    "code": "0121",
+    "titre": "Réouverture des comptes d'immobilisations en non-valeurs"
+  },
+  {
+    "code": "01211",
+    "titre": "Réouverture des comptes de frais préléminaires"
+  },
+  {
+    "code": "01212",
+    "titre": "Réouverture des comptes de charges à répartir sur plusieurs exercices"
+  },
+  {
+    "code": "01213",
+    "titre": "Réouverture des comptes de primes de remboursement des obligations"
+  },
+  {
+    "code": "0122",
+    "titre": "Réouverture des comptes d'immobilisations incorporelles"
+  },
+  {
+    "code": "01221",
+    "titre": "Réouverture des comptes de d'immobilisations en recherche et développement"
+  },
+  {
+    "code": "01222",
+    "titre": "Réouverture des comptes de brevets  marques  droits et valeurs similaires"
+  },
+  {
+    "code": "01223",
+    "titre": "Réouverture des comptes de fonds commercial"
+  },
+  {
+    "code": "01228",
+    "titre": "Réouverture des comptes d'autres immobilisations incorporelles"
+  },
+  {
+    "code": "0123",
+    "titre": "Réouverture des comptes des immobilisations corporelles"
+  },
+  {
+    "code": "01231",
+    "titre": "Réouverture des comptes de terrains"
+  },
+  {
+    "code": "01232",
+    "titre": "Réouverture des comptes de constructions"
+  },
+  {
+    "code": "01233",
+    "titre": "Réouverture des comptes des installations techniques  matériel et outillage"
+  },
+  {
+    "code": "01234",
+    "titre": "Réouverture des comptes de matériel de transport"
+  },
+  {
+    "code": ")1235",
+    "titre": "Réouverture des comptes de mobilier  matériel du bureau et aménagements"
+  },
+  {
+    "code": "01238",
+    "titre": "Réouverture des comptes des autres immobilisations corporelles"
+  },
+  {
+    "code": "01239",
+    "titre": "Réouverture des comptes des immobilisations corporelles en cours"
+  },
+  {
+    "code": "0124 - 0125",
+    "titre": "Réouverture des comptes des immobilisations financiéres"
+  },
+  {
+    "code": "01241",
+    "titre": "Réouverture des comptes de prets immobilisés"
+  },
+  {
+    "code": "01248",
+    "titre": "Réouverture des comptes des autres créances financiéres"
+  },
+  {
+    "code": "01251",
+    "titre": "Réouverture des comptes de titres de participation"
+  },
+  {
+    "code": "01258",
+    "titre": "Réouverture des comptes des autres titres immobilisés"
+  },
+  {
+    "code": "0127",
+    "titre": "Réouverture des comptes des écarts de conversion - actif"
+  },
+  {
+    "code": "01271",
+    "titre": "Réouverture des comptes des écarts sur créances immobilisées"
+  },
+  {
+    "code": "01272",
+    "titre": "Réouverture des comptes des écarts sur dettes de financement"
+  },
+  {
+    "code": "0128",
+    "titre": "Réouverture des comptes des amortissements des immobilisations"
+  },
+  {
+    "code": "0129",
+    "titre": "Réouverture des comptes de provisions pour dépréciation des comptes de l'actif immobilisé"
+  },
+  {
+    "code": "013",
+    "titre": "Réouverture des comptes d'actif circulant (hors trésorerie)"
+  },
+  {
+    "code": "0131",
+    "titre": "Réouverture des comptes de stocks"
+  },
+  {
+    "code": "01311",
+    "titre": "Réouverture des comptes de marchandises"
+  },
+  {
+    "code": "01312",
+    "titre": "Réouverture des comptes de matiéres et fournitures consommables"
+  },
+  {
+    "code": "01313",
+    "titre": "Réouverture des comptes de produits en cours"
+  },
+  {
+    "code": "01314",
+    "titre": "Réouverture des comptes de produits intérmédiaires et produits résiduels"
+  },
+  {
+    "code": "01315",
+    "titre": "Réouverture des comptes de produits finis"
+  },
+  {
+    "code": "0134",
+    "titre": "Réouverture des comptes de créances"
+  },
+  {
+    "code": "01341",
+    "titre": "Réouverture des comptes de fournisseurs débiteurs  avances et acomptes"
+  },
+  {
+    "code": "01342",
+    "titre": "Réouverture des comptes de clients et comptes rattachés"
+  },
+  {
+    "code": "01343",
+    "titre": "Réouverture des comptes de personnel débiteur"
+  },
+  {
+    "code": "01345",
+    "titre": "Réouverture des comptes d'Etat débiteur"
+  },
+  {
+    "code": "01346",
+    "titre": "Réouverture des comptes d'associés débiteurs"
+  },
+  {
+    "code": "01348",
+    "titre": "Réouverture des comptes des autres débiteurs"
+  },
+  {
+    "code": "01349",
+    "titre": "Réouverture des comptes de régularisation - actif"
+  },
+  {
+    "code": "0135",
+    "titre": "Réouverture des comptes  titres et valeurs de placement"
+  },
+  {
+    "code": "0137",
+    "titre": "Réouverture des comptes des écarts de conversion - actif (éléments circulants)"
+  },
+  {
+    "code": "0139",
+    "titre": "Réouverture des comptes de provisions pour dépréciation des comptes de l'actif circulant"
+  },
+  {
+    "code": "014",
+    "titre": "Réouverture des comptes de passif circulant (hors trésorerie)"
+  },
+  {
+    "code": "0144",
+    "titre": "Réouverture des comptes de dettes du passif circulant"
+  },
+  {
+    "code": "01441",
+    "titre": "Réouverture des comptes de fournisseurs et comptes rattachés"
+  },
+  {
+    "code": "01442",
+    "titre": "Réouverture des comptes de clients créditeurs avances et acomptes"
+  },
+  {
+    "code": "01443",
+    "titre": "Réouverture des comptes du personnel - créditeur"
+  },
+  {
+    "code": "01444",
+    "titre": "Réouverture des comptes des organismes sociaux créditeurs"
+  },
+  {
+    "code": "01445",
+    "titre": "Réouverture des comptes des comptes Etat - créditeur"
+  },
+  {
+    "code": "01446",
+    "titre": "Réouverture des comptes d'associés créditeurs"
+  },
+  {
+    "code": "01448",
+    "titre": "Réouverture des comptes des autres créanciers"
+  },
+  {
+    "code": "01449",
+    "titre": "Réouverture des comptes de régularisation - passif"
+  },
+  {
+    "code": "0145",
+    "titre": "Réouverture des comptes des autres provisions pour risques et charges"
+  },
+  {
+    "code": "0147",
+    "titre": "Réouverture des comptes des écarts de conversion - passif (éléments circulants)"
+  },
+  {
+    "code": "015",
+    "titre": "Réouverture des comptes de trésorerie"
+  },
+  {
+    "code": "0151",
+    "titre": "Réouverture des comptes de trésorerie - actif"
+  },
+  {
+    "code": "01511",
+    "titre": "Réouverture des comptes de chèques et valeurs à encaisser"
+  },
+  {
+    "code": "01514",
+    "titre": "Réouverture des comptes de banques TG et CP (soldes débiteurs)"
+  },
+  {
+    "code": "01516",
+    "titre": "Réouverture des comptes de caisses régies d'avances et accréditifs"
+  },
+  {
+    "code": "0155",
+    "titre": "Réouverture des comptes de trésorerie - passif"
+  },
+  {
+    "code": "01552",
+    "titre": "Réouverture des crédits d'escompte"
+  },
+  {
+    "code": "01553",
+    "titre": "Réouverture des comptes de crédits de trésorerie"
+  },
+  {
+    "code": "01554",
+    "titre": "Réouverture des comptes de banques (soldes créditeurs)"
+  },
+  {
+    "code": "0159",
+    "titre": "Réouverture des comptes de provisions pour dépréciation des comptes de trésorerie"
+  },
+  {
+    "code": "02",
+    "titre": "Cloture du bilan"
+  },
+  {
+    "code": "021",
+    "titre": "Cloture des comptes de financement personnel"
+  },
+  {
+    "code": "0211",
+    "titre": "Cloture des comptes de capitaux propres"
+  },
+  {
+    "code": "02111",
+    "titre": "Cloture des comptes de capital social ou permanent"
+  },
+  {
+    "code": "02112",
+    "titre": "Cloture des comptes des primes d'émission  de fusion  d'apport"
+  },
+  {
+    "code": "02113",
+    "titre": "Cloture des comptes des écarts de réevaluation"
+  },
+  {
+    "code": "02114",
+    "titre": "Cloture des comptes de résérve légale"
+  },
+  {
+    "code": "02115",
+    "titre": "Cloture des comptes des autres réserves"
+  },
+  {
+    "code": "02116",
+    "titre": "Cloture des comptes du report à nouveau"
+  },
+  {
+    "code": "02118",
+    "titre": "Cloture des comptes des résultats nets en instance d'affectation"
+  },
+  {
+    "code": "02119",
+    "titre": "Cloture des comptes du résultat net de l'exercice"
+  },
+  {
+    "code": "0213",
+    "titre": "Cloture des comptes de capitaux propres assimilés"
+  },
+  {
+    "code": "02131",
+    "titre": "Cloture des comptes de subventions d'investissement"
+  },
+  {
+    "code": "02135",
+    "titre": "Cloture des comptes de provisions réglementées"
+  },
+  {
+    "code": "0214",
+    "titre": "Cloture des comptes des dettes de financement"
+  },
+  {
+    "code": "02141",
+    "titre": "Cloture des comptes d'emprunts obligataires"
+  },
+  {
+    "code": "02148",
+    "titre": "Cloture des comptes des autres dettes de financeemnt"
+  },
+  {
+    "code": "0215",
+    "titre": "Cloture des comptes de provisions durables pour risques et charges"
+  },
+  {
+    "code": "02151",
+    "titre": "Cloture des comptes de provisions pour risques"
+  },
+  {
+    "code": "02155",
+    "titre": "Cloture des comptes de provisions pour charges"
+  },
+  {
+    "code": "0216",
+    "titre": "Cloture des comptes de liaison des établissements et succursales"
+  },
+  {
+    "code": "0217",
+    "titre": "Cloture des comptes d'écarts de convesion passif"
+  },
+  {
+    "code": "02171",
+    "titre": "Cloture des comptes d'écarts sur créances immobilisées"
+  },
+  {
+    "code": "02172",
+    "titre": "Cloture des comptes d'écarts sur dettes de financement"
+  },
+  {
+    "code": "022",
+    "titre": "Cloture des comptes d'actif immobilisé"
+  },
+  {
+    "code": "0221",
+    "titre": "Cloture des comptes d'immobilisations en non-valeurs"
+  },
+  {
+    "code": "02211",
+    "titre": "Cloture des comptes de frais préléminaires"
+  },
+  {
+    "code": "02212",
+    "titre": "Cloture des comptes de charges à répartir sur plusieurs exercices"
+  },
+  {
+    "code": "02213",
+    "titre": "Cloture des comptes de primes de remboursement des obligations"
+  },
+  {
+    "code": "0222",
+    "titre": "Cloture des comptes des immobilisations incorporelles"
+  },
+  {
+    "code": "02221",
+    "titre": "Cloture des comptes de d'immobilisations en recherche et développement"
+  },
+  {
+    "code": "02222",
+    "titre": "Cloture des comptes de brevets  marques  droits et valeurs similaires"
+  },
+  {
+    "code": "02223",
+    "titre": "Cloture des comptes de fonds commercial"
+  },
+  {
+    "code": "02228",
+    "titre": "Cloture des comptes des autres immobilisations incorporelles"
+  },
+  {
+    "code": "0223",
+    "titre": "Cloture des comptes des immobilisations corporelles"
+  },
+  {
+    "code": "02231",
+    "titre": "Cloture des comptes de terrains"
+  },
+  {
+    "code": "02232",
+    "titre": "Cloture des comptes de constructions"
+  },
+  {
+    "code": "02233",
+    "titre": "Cloture des comptes des installations techniques  matériel et outillage"
+  },
+  {
+    "code": "02234",
+    "titre": "Cloture des comptes de matériel de transport"
+  },
+  {
+    "code": "02235",
+    "titre": "Cloture des comptes de mobilier  matériel du bureau et aménagements"
+  },
+  {
+    "code": "02238",
+    "titre": "Cloture des comptes des autres immobilisations corporelles"
+  },
+  {
+    "code": "02239",
+    "titre": "Cloture des comptes des immobilisations corporelles en cours"
+  },
+  {
+    "code": "0224 - 0225",
+    "titre": "Cloture des comptes des immobilisations financiéres"
+  },
+  {
+    "code": "02241",
+    "titre": "Cloture des comptes de prets immobilisés"
+  },
+  {
+    "code": "02248",
+    "titre": "Cloture des comptes des autres créances financiéres"
+  },
+  {
+    "code": "02251",
+    "titre": "Cloture des comptes de titres de participation"
+  },
+  {
+    "code": "02258",
+    "titre": "Cloture des comptes des autres titres immobilisés"
+  },
+  {
+    "code": "0227",
+    "titre": "Cloture des comptes des écarts de conversion - actif"
+  },
+  {
+    "code": "02271",
+    "titre": "Cloture des comptes des écarts sur créances immobilisées"
+  },
+  {
+    "code": "02272",
+    "titre": "Cloture des comptes des écarts sur dettes de financement"
+  },
+  {
+    "code": "0228",
+    "titre": "Cloture des comptes des amortissements des immobilisations"
+  },
+  {
+    "code": "0229",
+    "titre": "Cloture des comptes de provisions pour dépréciation des comptes de l'actif immobilisé"
+  },
+  {
+    "code": "023",
+    "titre": "Cloture des comptes d'actif circulant (hors trésorerie)"
+  },
+  {
+    "code": "0231",
+    "titre": "Cloture des comptes de stocks"
+  },
+  {
+    "code": "02311",
+    "titre": "Cloture des comptes de marchandises"
+  },
+  {
+    "code": "02312",
+    "titre": "Cloture des comptes de matiéres et fournitures consommables"
+  },
+  {
+    "code": "02313",
+    "titre": "Cloture des comptes de produits en cours"
+  },
+  {
+    "code": "02314",
+    "titre": "Cloture des comptes de produits intérmédiaires et produits résiduels"
+  },
+  {
+    "code": "02315",
+    "titre": "Cloture des comptes de produits finis"
+  },
+  {
+    "code": "0234",
+    "titre": "Cloture des comptes de créances"
+  },
+  {
+    "code": "02341",
+    "titre": "Cloture des comptes de fournisseurs débiteurs  avances et acomptes"
+  },
+  {
+    "code": "02342",
+    "titre": "Cloture des comptes de clients et comptes rattachés"
+  },
+  {
+    "code": "02343",
+    "titre": "Cloture des comptes de personnel débiteur"
+  },
+  {
+    "code": "02345",
+    "titre": "Cloture des comptes d'Etat débiteur"
+  },
+  {
+    "code": "02346",
+    "titre": "Cloture des comptes d'associés débiteurs"
+  },
+  {
+    "code": "02348",
+    "titre": "Cloture des comptes des autres débiteurs"
+  },
+  {
+    "code": "02349",
+    "titre": "Cloture des comptes de régularisation - actif"
+  },
+  {
+    "code": "0235",
+    "titre": "Cloture des comptes  titres et valeurs de placement"
+  },
+  {
+    "code": "0237",
+    "titre": "Cloture des comptes des écarts de conversion - actif (éléments circulants)"
+  },
+  {
+    "code": "0239",
+    "titre": "Cloture des comptes de provisions pour dépréciation des comptes de l'actif circulant"
+  },
+  {
+    "code": "024",
+    "titre": "Cloture des comptes de passif circulant (hors trésorerie)"
+  },
+  {
+    "code": "0244",
+    "titre": "Cloture des comptes de dettes du passif circulant"
+  },
+  {
+    "code": "02441",
+    "titre": "Cloture des comptes de fournisseurs et comptes rattachés"
+  },
+  {
+    "code": "02442",
+    "titre": "Cloture des comptes de clients créditeurs  avances et acomptes"
+  },
+  {
+    "code": "02443",
+    "titre": "Cloture des comptes du personnel - créditeur"
+  },
+  {
+    "code": "02444",
+    "titre": "Cloture des comptes des organismes sociaux créditeurs"
+  },
+  {
+    "code": "02445",
+    "titre": "Cloture des comptes des comptes Etat - créditeur"
+  },
+  {
+    "code": "02446",
+    "titre": "Cloture des comptes d'associés créditeurs"
+  },
+  {
+    "code": "02448",
+    "titre": "Cloture des comptes des autres créanciers"
+  },
+  {
+    "code": "02449",
+    "titre": "Cloture des comptes de régularisation - passif"
+  },
+  {
+    "code": "0245",
+    "titre": "Cloture des comptes des autres provisions pour risques et charges"
+  },
+  {
+    "code": "0247",
+    "titre": "Clôture des comptes des écarts de conversion - passif (éléments circulants)"
+},
+{
+    "code": "025",
+    "titre": "Clôture des comptes de trésorerie"
+},
+{
+    "code": "0251",
+    "titre": "Clôture des comptes de trésorerie - actif"
+},
+{
+    "code": "02511",
+    "titre": "Clôture des comptes de chèques et valeurs à encaisser"
+},
+{
+    "code": "02514",
+    "titre": "Clôture des comptes de banques TG et CP (soldes débiteurs)"
+},
+{
+    "code": "02516",
+    "titre": "Clôture des comptes de caisses régies d'avances et accréditifs"
+},
+{
+    "code": "0255",
+    "titre": "Clôture des comptes de trésorerie - passif"
+},
+  {
+    "code": "02552",
+    "titre": "Cloture des crédits d'escompte"
+  },
+  {
+    "code": "02553",
+    "titre": "Clôture des comptes de crédits de trésorerie"
+},
+{
+    "code": "0259",
+    "titre": "Clôture des comptes de provisions pour dépréciation des comptes de trésorerie"
+},
+{
+    "code": "03",
+    "titre": "Comptes d'ordre"
+},
+{
+    "code": "031",
+    "titre": "Opération en instance de dénouement (débit)"
+},
+{
+    "code": "0311",
+    "titre": "Opération de débit en instance de dénouement"
+},
+  {
+    "code": "0319",
+    "titre": "Contrepartie des opérations en instance d'affectation"
+  },
+  {
+    "code": "033",
+    "titre": "Opération en instance de dénouement (crédit)"
+},
+{
+    "code": "0331",
+    "titre": "Opération de crédit en instance de dénouement"
+},
+{
+    "code": "0339",
+    "titre": "Contrepartie des opérations en instance de dénouement"
+},
+{
+    "code": "035",
+    "titre": "Opération en devises entrées"
+},
+{
+    "code": "0351",
+    "titre": "Contre-valeur devise - entrées"
+},
+{
+    "code": "0359",
+    "titre": "Contrepartie - devises - entrées"
+},
+{
+    "code": "036",
+    "titre": "Opération en devises - sortie"
+},
+  {
+    "code": "0361",
+    "titre": "Contre - valeur devise - sorties"
+  },
+  {
+    "code": "0369",
+    "titre": "Contrepartie - devises - sorties"
+  },
+  {
+    "code": "038",
+    "titre": "Autres doonées statistiques"
+  },
+  {
+    "code": "0381",
+    "titre": "opérations statistiques suivies"
+  },
+  {
+    "code": "0389",
+    "titre": "Contrepartie des opérations statistiques suivies"
+  },
+  {
+    "code": "04",
+    "titre": "Engagements donnés"
+  },
+  {
+    "code": "041",
+    "titre": "Avals  cautions et garanties donnés"
+  },
+  {
+    "code": "0411",
+    "titre": "Avals  cautions et garanties donnés"
+  },
+  {
+    "code": "0419",
+    "titre": "débiteurs pour avals et cautions donnés"
+  },
+  {
+    "code": "043",
+    "titre": "Engagements en matiére de pensions de retraite et obligations similaires"
+  },
+  {
+    "code": "0431",
+    "titre": "Engagements en matiére de pensions de retraite et obligations similaires"
+  },
+  {
+    "code": "0439",
+    "titre": "débiteurs pour engagements en matiére de pensions de retraite et obligations similaires"
+  },
+  {
+    "code": "045",
+    "titre": "Effets circulants sous l'endos de l'entreprise"
+  },
+  {
+    "code": "0451",
+    "titre": "Effets circulants sous l'endos de l'entreprise"
+  },
+  {
+    "code": "0459",
+    "titre": "Débiteurs pour effets circulants sous l'endos de l'entreprise"
+  },
+  {
+    "code": "046",
+    "titre": "Engagements donnés pour pour prets consentis"
+  },
+  {
+    "code": "0461",
+    "titre": "Prets consentis non encore versés"
+  },
+  {
+    "code": "0469",
+    "titre": "Débiteurs pour prets consentis non encore versés"
+  },
+  {
+    "code": "048",
+    "titre": "Autres engagements donnés"
+  },
+  {
+    "code": "0481",
+    "titre": "Autres engagements donnés"
+  },
+  {
+    "code": "0489",
+    "titre": "Débiteurs pour autres engagements donnés"
+  },
+  {
+    "code": "05",
+    "titre": "Engagements reçus"
+  },
+  {
+    "code": "051",
+    "titre": "Avals  cautions et garanties reçus"
+  },
+  {
+    "code": "0511",
+    "titre": "Avals  cautions et garanties reçus"
+  },
+  {
+    "code": "0519",
+    "titre": "créditeurs pour avals  cautions et garanties reçus"
+  },
+  {
+    "code": "055",
+    "titre": "Biens détenus en garantie par l'entreprise"
+  },
+  {
+    "code": "0551",
+    "titre": "Biens détenus en garantie par l'entreprise"
+  },
+  {
+    "code": "0559",
+    "titre": "créditeurs pour biens détenus en garantie par l'entreprise"
+  },
+  {
+    "code": "056",
+    "titre": "Engagements reçus sur dettes de financement"
+  },
+  {
+    "code": "0561",
+    "titre": "Emrunts non encore encaissés"
+  },
+  {
+    "code": "0569",
+    "titre": "créditeurs pour engagements non encore encaissés"
+  },
+  {
+    "code": "057",
+    "titre": "Engagements reçus sur sur trésorerie"
+  },
+  {
+    "code": "0571",
+    "titre": "Montant non utilisé des découverts autorisés"
+  },
+  {
+    "code": "0572",
+    "titre": "Plafond d'escomptes non utilisé"
+  },
+  {
+    "code": "0579",
+    "titre": "créditeurs pour engagements reçus sur trésorerie"
+  },
+  {
+    "code": "058",
+    "titre": "Autres engagements reçus"
+  },
+  {
+    "code": "0581",
+    "titre": "Autres engagements reçus"
+  },
+  {
+    "code": "0589",
+    "titre": "créditeurs pour autres engagements reçus"
+  },
+  {
+    "code": "06",
+    "titre": "Engagements sur opérations de crédit-bail"
+  },
+  {
+    "code": "061",
+    "titre": "Redevances de crédit-bail restant à courir"
+  },
+  {
+    "code": "0611",
+    "titre": "Redevances de crédit-bail restant à courir"
+  },
+  {
+    "code": "0619",
+    "titre": "Debiteurs pour redevances de crédit-bail restant à courir"
+  },
+  {
+    "code": "065",
+    "titre": "Engagements reçus pour utilisation en crédit-bail"
+  },
+  {
+    "code": "0651",
+    "titre": "Engagements reçus pour utilisation en crédit-bail"
+  },
+  {
+    "code": "0659",
+    "titre": "créditeurs pour engagements reçus pour utilisation en crédit-bail"
+  },
+  {
+    "code": "08",
+    "titre": "Autres comptes spéciaux"
+  },
+  {
+    "code": "081",
+    "titre": "Autres comptes spéciaux"
+  },
+  {
+    "code": "0811",
+    "titre": "Autres comptes spéciaux"
+  },
+  {
+    "code": "0819",
+    "titre": "Contrepartie des autres comptes spéciaux"
+  }
+]
