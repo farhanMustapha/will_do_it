@@ -41,7 +41,7 @@ a=chercher_position(b,9)
 print(a)
 
 """
-
+"""
 def chercher_position(L,a):
     if a in L:
         return L.index(a)
@@ -50,4 +50,17 @@ def chercher_position(L,a):
 
 b=[4,5,1,0,5,4,9]
 a=chercher_position(b,5)
+print(a)
+
+"""
+
+def multiplication_item_list(L,n):
+    resultat=[]
+    for i in range(1,len(L)):
+        multi=L[i]*n
+        resultat.append(multi)
+    return resultat # all time be carful with indent hhhh
+    
+L=[1,2,3,4,5,6,7,8,9,10]
+a=multiplication_item_list(L,2)
 print(a)
