@@ -88,7 +88,7 @@ L=[4,4,5]
 moyen=sum_list(L)
 print(f"la moyen de L  est {moyen}") """
 
-def exist_in_list(L,a):
+""" def exist_in_list(L,a):
     if a in L:
         return True
     else :
@@ -97,3 +97,30 @@ def exist_in_list(L,a):
 L=[1,2,3,4,5,6,7,8,9,10] 
 
 print(exist_in_list(L,1))  
+ """
+
+
+
+#this was my solution 
+def min_max_list(L):
+    a=L.sort()
+    minL=a[0]
+    maxL=a[len(L)]
+    return minL,maxL
+
+L=[10,23,32,47,50,16,700,0,9,10] 
+a=min_max_list(L)
+print(a)
+
+
+
+#solution book i see it hhhh sorry
+def min_max_list(L):
+    L.sort()
+    minL=L[0]
+    maxL=L[-1]
+    return minL,maxL
+
+L=[10,23,32,47,50,16,700,0,9,10] 
+a=min_max_list(L)
+print(a)
