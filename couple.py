@@ -99,7 +99,7 @@ L=[1,2,3,4,5,6,7,8,9,10]
 print(exist_in_list(L,1))  
  """
 
-
+""" 
 
 #this was my solution 
 def min_max_list(L):
@@ -123,4 +123,16 @@ def min_max_list(L):
 
 L=[10,23,32,47,50,16,700,0,9,10] 
 a=min_max_list(L)
-print(a)
+print(a) """
+
+#this is ma version
+def supp_dup_item_list(L):
+    for i in range(0,len(L)):
+        a=L[i]
+        if a==L[i+1]:
+            L.pop(a)
+    return L
+
+L=[10,23,16,47,50,16,700,50,9,10] 
+print(supp_dup_item_list(L))
+
