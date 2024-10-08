@@ -125,14 +125,29 @@ L=[10,23,32,47,50,16,700,0,9,10]
 a=min_max_list(L)
 print(a) """
 
-#this is ma version
+""" #this is ma version
 def supp_dup_item_list(L):
+    b=[]
     for i in range(0,len(L)):
         a=L[i]
-        if a==L[i+1]:
-            L.pop(a)
-    return L
+        if a!=L[i+1]:
+            b.append(a)
+            
+    return 
 
 L=[10,23,16,47,50,16,700,50,9,10] 
+print(supp_dup_item_list(L))
+
+ """
+
+def supp_dup_item_list(L):
+    b=[]
+    for i in L:
+        if i not in b:
+            b.append(i)
+            
+    return b
+
+L=[10,23,16,50,50,16,700,50,9,10] 
 print(supp_dup_item_list(L))
 
