@@ -53,7 +53,7 @@ a=chercher_position(b,5)
 print(a)
 
 """
-
+""" 
 def multiplication_item_list(L,n):
     resultat=[]
     for i in range(1,len(L)):
@@ -63,4 +63,15 @@ def multiplication_item_list(L,n):
     
 L=[1,2,3,4,5,6,7,8,9,10]
 a=multiplication_item_list(L,2)
-print(a)
+print(a) """
+
+
+def multiplication_item_list(L,n):
+    resultat=[]
+    for i in L:
+        resultat.append(i*n)
+    return resultat # all time be carful with indent hhhh
+    
+L=[1,2,3,4,5,6,7,8,9,10]
+a=multiplication_item_list(L,2)
+print(a) 
