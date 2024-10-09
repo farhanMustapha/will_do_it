@@ -13,7 +13,7 @@ for k,v in d.items():
     }
 
     print(dd) """
-
+""" 
 d={
     "a1":[21,17,22,3],
     "a2":[11,15,8,13],
@@ -28,6 +28,16 @@ for k,v in d.items():
 
 print(sorted_v)
 
-    
+ """ 
+
+txt="python est un langage facile"
+dic={
+
+}
+split_txt=txt.split(" ")  
+for v in split_txt:
+    dic[v]=v[::-1]
+print(dic)
+
     
     
