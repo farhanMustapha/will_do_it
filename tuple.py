@@ -14,9 +14,18 @@ try:
     print(A)
 except :
     print("n'existe pas ")
- """
-#A.clear()
+"""
+
+""" 
+A.clear()
+
 if len(A)>0:
     print(A)
 else:
-    print("pas d'elements")
+    print("pas d'elements") 
+"""
+del A
+try:
+    print(A)
+except:
+    print("A n exist pas ")
