@@ -1,4 +1,4 @@
-A={'stylo','crayon','gorme'}
+#A={'stylo','crayon','gorme'}
 """ b=input()
 if b in A:
     print("exist")
@@ -46,11 +46,26 @@ for x in A:
             c.add(x)
 print(c) """
 
-
+""" 
 A={'a','g','c','d'}
 B={'c','e','d','h'}
 c=set({})
 for x in A:
     if x in B:
         c.add(x)
-print(c)
+print(c) """
+
+""" 
+A={'a','g','c','d'}
+B={'k','e','j','h'}
+
+for x in B:
+    A.add(x)
+print(A) """
+
+
+A={'1','2','3','4'}
+B={'3','4','5','6'}
+#c=A.intersection(B)
+
+print((A-B).union(B-A))
