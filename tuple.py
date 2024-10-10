@@ -36,7 +36,7 @@ B={'c','e','d','h'}
 c=A.intersection(B)
 print(c)
  """
-
+""" 
 A={'a','e','c','d'}
 B={'c','e','d','h'}
 c=set({})
@@ -44,4 +44,13 @@ for x in A:
     for y in B:
         if x==y:
             c.add(x)
+print(c) """
+
+
+A={'a','g','c','d'}
+B={'c','e','d','h'}
+c=set({})
+for x in A:
+    if x in B:
+        c.add(x)
 print(c)
