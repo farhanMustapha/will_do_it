@@ -24,8 +24,24 @@ if len(A)>0:
 else:
     print("pas d'elements") 
 """
-del A
+""" del A
 try:
     print(A)
 except:
     print("A n exist pas ")
+     """
+
+""" A={'a','b','c','d'}
+B={'c','e','d','h'}
+c=A.intersection(B)
+print(c)
+ """
+
+A={'a','e','c','d'}
+B={'c','e','d','h'}
+c=set({})
+for x in A:
+    for y in B:
+        if x==y:
+            c.add(x)
+print(c)
