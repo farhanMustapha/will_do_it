@@ -3,7 +3,8 @@
 if b in A:
     print("exist")
 else:
-    print("non trouver") """
+    print("non trouver")
+"""
 #print(len(A))
 
 """ 
@@ -24,6 +25,7 @@ if len(A)>0:
 else:
     print("pas d'elements") 
 """
+
 """ del A
 try:
     print(A)
@@ -31,11 +33,14 @@ except:
     print("A n exist pas ")
      """
 
-""" A={'a','b','c','d'}
+""" 
+A={'a','b','c','d'}
 B={'c','e','d','h'}
 c=A.intersection(B)
 print(c)
  """
+
+
 """ 
 A={'a','e','c','d'}
 B={'c','e','d','h'}
@@ -44,7 +49,9 @@ for x in A:
     for y in B:
         if x==y:
             c.add(x)
-print(c) """
+print(c)
+
+ """
 
 """ 
 A={'a','g','c','d'}
@@ -64,8 +71,23 @@ for x in B:
 print(A) """
 
 
+""" 
+
 A={'1','2','3','4'}
 B={'3','4','5','6'}
-#c=A.intersection(B)
-
 print((A-B).union(B-A))
+
+ """
+A={'1','2','3','4'}
+B={'3','4','5','6'}
+c=set({})
+for x in A:
+    if x not in B:
+        c.add(x)
+#print(c)
+
+for y in B:
+    if y not in A:
+        c.add(y)
+print(c)
+
