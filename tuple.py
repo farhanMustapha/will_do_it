@@ -77,7 +77,7 @@ A={'1','2','3','4'}
 B={'3','4','5','6'}
 print((A-B).union(B-A))
 
- """
+ """""" 
 A={'1','2','3','4'}
 B={'3','4','5','6'}
 c=set({})
@@ -89,5 +89,7 @@ for x in A:
 for y in B:
     if y not in A:
         c.add(y)
-print(c)
-
+print(c) 
+"""
+A={'1','2','3','4'}
+print(A.union({"x"}))
