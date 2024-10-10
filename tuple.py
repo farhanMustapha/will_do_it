@@ -5,6 +5,8 @@ if b in A:
 else:
     print("non trouver") """
 #print(len(A))
+
+""" 
 A.add("regle")
 A.update(["atrouse","papier","stylo bleu"])
 try:
@@ -12,3 +14,9 @@ try:
     print(A)
 except :
     print("n'existe pas ")
+ """
+#A.clear()
+if len(A)>0:
+    print(A)
+else:
+    print("pas d'elements")
